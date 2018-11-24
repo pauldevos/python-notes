@@ -22,8 +22,10 @@
 ```
 # Create a directory and enter into it
 mkdir myproject && cd myproject
+
 # create a python env
 pyvenv venv
+
 # Put the venv in your .gitignore:
 git init
 echo 'venv' > .gitignore

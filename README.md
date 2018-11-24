@@ -35,10 +35,22 @@
 - [A Collection of Design Patterns in Python](https://github.com/faif/python-patterns)
 - [Toptal - Python Design Patterns](https://www.toptal.com/python/python-design-patterns)
 
+
+
+
+### Data Analysis Libraries
+- [Prophet](https://facebook.github.io/prophet/) - A Facebook Time Series Analysis library
+
+
+
+
+
+
+
+
 ### Virtual Environments
 
-
-#### Creating Your First Project & Virtual Environment
+Creating Your First Project & Virtual Environment
 
 ```
 # Create a directory and enter into it

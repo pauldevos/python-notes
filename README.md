@@ -42,6 +42,7 @@
 
 #### Data Visualization
 - [IPyVolume](https://github.com/maartenbreddels/ipyvolume)
+- [Dash](https://dash.plot.ly/) - Written on top of Flask, Plotly.js, and React.js, Dash can be used for highly custom user interfaces in Python
 
 #### Time Series
 - [Prophet](https://facebook.github.io/prophet/) - A Facebook Time Series Analysis library

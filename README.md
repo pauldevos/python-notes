@@ -17,9 +17,11 @@
 ### Virtual Environments
 
 
-#### Make a project folder:
-```mkdir myproject && cd myproject
+#### Creating Your First Project & Virtual Environment
 
+```
+# Create a directory and enter into it
+mkdir myproject && cd myproject
 # create a python env
 pyvenv venv
 # Put the venv in your .gitignore:

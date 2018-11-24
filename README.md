@@ -43,6 +43,15 @@
 #### Data Visualization
 - [IPyVolume](https://github.com/maartenbreddels/ipyvolume)
 - [Dash](https://dash.plot.ly/) - Written on top of Flask, Plotly.js, and React.js, Dash can be used for highly custom user interfaces in Python
+- [Chartify](https://github.com/spotify/chartify/) - Same interface for plots with a goal to make it easy to use Bokeh plots.
+- [bqplot](https://github.com/bloomberg/bqplot) - 2-D plotting library for Project Jupyter
+- [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) - A Jupyter / Leaflet bridge enabling interactive maps in the Jupyter notebook.
+- [pythreejs](https://github.com/jupyter-widgets/pythreejs) - 
+A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
+- [gmaps](https://jupyter-gmaps.readthedocs.io/en/stable/tutorial.html) - Google Maps For Jupyter Notebooks
+- [vaex](https://vaex.io/) - Lazy Out-of-Core DataFrames for Python. Visualize a billion rows per second on a single computer.
+- [ipywebrtc](https://github.com/maartenbreddels/ipywebrtc) - WebRTC for Jupyter notebook/lab
+- [ipywidgets](https://ipywidgets.readthedocs.io/en/stable/examples/Widget%20List.html) - Interactive Widgets for the Jupyter Notebook
 
 #### Time Series
 - [Prophet](https://facebook.github.io/prophet/) - A Facebook Time Series Analysis library
@@ -56,7 +65,11 @@
 - [wget](https://bitbucket.org/techtonik/python-wget/src) - free utility for non-interactive downloading files from the web
 - [pendulum](https://github.com/sdispater/pendulum) - Python datetime manipulation made easy
 
+#### Repeatable Python Workflows in Notebooks
+- [Building a Repeatable Data Analysis Process with Jupyter Notebooks](http://pbpython.com/notebook-process.html)
 
+#### Deep Learning Tools
+- [Pyro](http://pyro.ai/examples/) - Pyro is a flexible, scalable deep probabilistic programming library built on PyTorch
 
 ### Virtual Environments
 

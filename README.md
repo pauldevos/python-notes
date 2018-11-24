@@ -40,16 +40,18 @@
 
 ### Data Analysis Libraries
 
+#### Data Visualization
+- [IPyVolume](https://github.com/maartenbreddels/ipyvolume)
 
-### Time Series
+#### Time Series
 - [Prophet](https://facebook.github.io/prophet/) - A Facebook Time Series Analysis library
 - [PyFlux](https://pyflux.readthedocs.io/en/latest/index.html) - Time series analysis library with flexible range of modelling and inference options.
 
-### NLP/Text Manipulation
+#### NLP/Text Manipulation
 - [FlashText](https://flashtext.readthedocs.io/en/latest/) - This module can be used to replace keywords in sentences or extract keywords from sentences.
 - [FuzzyWuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy string matching in Python
 
-### Others
+#### Others
 - [wget](https://bitbucket.org/techtonik/python-wget/src) - free utility for non-interactive downloading files from the web
 - [pendulum](https://github.com/sdispater/pendulum) - Python datetime manipulation made easy
 

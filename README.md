@@ -4,26 +4,36 @@
 -----
 
 
+- [The Hitchhikere's Guide to Python](https://docs.python-guide.org/)
+- [Python-Textbook](https://python-textbok.readthedocs.io/en/1.0/index.html)
+- [Tutorials Point](https://www.tutorialspoint.com/python)
+- [Python by Programiz](https://www.programiz.com/python-programming/first-program)
 
 
 ### Writing Good Python Modules - Some Essential Python Libraries
+- [The Hitchhiker's Guide to Packaging](https://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/index.html)
+- [The Hitchhiker's Guide to Structuring Your Project](https://docs.python-guide.org/writing/structure/)
+- [setup.py](https://github.com/kennethreitz/setup.py)
 - [attr](https://attrs.readthedocs.io/en/stable/)
   - [attr - The One Python Library Everyone Needs](https://glyph.twistedmatrix.com/2016/08/attrs.html)
-
-
-
 
 
 ### OOP
 - [A Byte of Python](https://python.swaroopch.com/oop.html)
 - [The Python Tutorial - Classes](https://docs.python.org/3/tutorial/classes.html)
 - [Object-Oriented Programming (OOP) in Python 3](https://realpython.com/python3-object-oriented-programming/)
+- [Tutorials Point - Objected Oriented Python](https://www.tutorialspoint.com/python/python_classes_objects.htm)
+- [Python-Textbook](https://python-textbok.readthedocs.io/en/1.0/Object_Oriented_Programming.html)
+- [Python by Programiz - OOP](https://www.programiz.com/python-programming/object-oriented-programming)
+- [Object Oriented Design - Niko Wilbert](https://python.g-node.org/python-summerschool-2013/_media/wiki/oop/oo_design_2013.pdf)
 - [Python 101 - Object Oriented Programming - Part 1](https://medium.com/the-renaissance-developer/python-101-object-oriented-programming-part-1-7d5d06833f26)
 - [Improve Your Python: Python Classes and Object Oriented Programming](https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/)
 - [Raymond Hettinger - Python's Class Development Toolkit](https://www.youtube.com/watch?v=HTLu2DFOdTg)
 - [OOP - Trying To Design A Good Class Structure)](https://stackoverflow.com/questions/39922553/oop-trying-to-design-a-good-class-structure)
 
-
+### Design Patterns
+- [A Collection of Design Patterns in Python](https://github.com/faif/python-patterns)
+- [Toptal - Python Design Patterns](https://www.toptal.com/python/python-design-patterns)
 
 ### Virtual Environments
 

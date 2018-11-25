@@ -38,7 +38,9 @@
 
 
 
-### Data Analysis Libraries
+
+### Python Libraries
+--------------
 
 #### Data Visualization
 - [ipyvolume](https://github.com/maartenbreddels/ipyvolume) - 3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL

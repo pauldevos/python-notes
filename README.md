@@ -1,6 +1,6 @@
 # mastering-python
 
-### Books
+### Good Overviews of Python (Online or Paper)
 -----
 
 
@@ -9,6 +9,9 @@
 - [Tutorials Point](https://www.tutorialspoint.com/python)
 - [Python by Programiz](https://www.programiz.com/python-programming/first-program)
 
+
+### Python Projects, OOP, and Building your own Modules
+-------
 
 ### Writing Good Python Modules - Some Essential Python Libraries
 - [The Hitchhiker's Guide to Packaging](https://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/index.html)

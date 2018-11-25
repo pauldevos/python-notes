@@ -54,13 +54,6 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [ipywidgets](https://ipywidgets.readthedocs.io/en/stable/examples/Widget%20List.html) - Interactive Widgets for the Jupyter Notebook
 - [itk-jupyter-widgets](https://github.com/InsightSoftwareConsortium/itk-jupyter-widgets) - Interactive Jupyter widgets to visualize images in 2D and 3D.
 
-#### Deploying Machine Learning Projects
-- [Learn to Build Machine Learning Services, Prototype Real Applications, and Deploy your Work to Users](https://towardsdatascience.com/learn-to-build-machine-learning-services-prototype-real-applications-and-deploy-your-work-to-aa97b2b09e0c)
-- [Combining D3 with Kedion: Graduating from Toy Visuals to Real Applications](https://towardsdatascience.com/combining-d3-with-kedion-graduating-from-toy-visuals-to-real-applications-92bf7c3cc713)
-- [World of Data Science](http://www.worldofdatascience.com/index.html)
-- [Learning How to Build a Web Application](https://medium.com/@rchang/learning-how-to-build-a-web-application-c5499bd15c8f)
-
-
 #### Time Series
 - [Prophet](https://facebook.github.io/prophet/) - A Facebook Time Series Analysis library
 - [PyFlux](https://pyflux.readthedocs.io/en/latest/index.html) - Time series analysis library with flexible range of modelling and inference options.
@@ -69,15 +62,30 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [FlashText](https://flashtext.readthedocs.io/en/latest/) - This module can be used to replace keywords in sentences or extract keywords from sentences.
 - [FuzzyWuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy string matching in Python
 
+#### Deep Learning Tools
+- [Pyro](http://pyro.ai/examples/) - Pyro is a flexible, scalable deep probabilistic programming library built on PyTorch
+
 #### Others
 - [wget](https://bitbucket.org/techtonik/python-wget/src) - free utility for non-interactive downloading files from the web
 - [pendulum](https://github.com/sdispater/pendulum) - Python datetime manipulation made easy
 
+
+### Courses
+----------
+
+#### Deep Learning Courses
+- [Fast.ai](https://course.fast.ai/index.html)
+
 #### Repeatable Python Workflows in Notebooks
 - [Building a Repeatable Data Analysis Process with Jupyter Notebooks](http://pbpython.com/notebook-process.html)
 
-#### Deep Learning Tools
-- [Pyro](http://pyro.ai/examples/) - Pyro is a flexible, scalable deep probabilistic programming library built on PyTorch
+#### Deploying Machine Learning Projects
+- [Learn to Build Machine Learning Services, Prototype Real Applications, and Deploy your Work to Users](https://towardsdatascience.com/learn-to-build-machine-learning-services-prototype-real-applications-and-deploy-your-work-to-aa97b2b09e0c)
+- [Combining D3 with Kedion: Graduating from Toy Visuals to Real Applications](https://towardsdatascience.com/combining-d3-with-kedion-graduating-from-toy-visuals-to-real-applications-92bf7c3cc713)
+- [World of Data Science](http://www.worldofdatascience.com/index.html)
+- [Learning How to Build a Web Application](https://medium.com/@rchang/learning-how-to-build-a-web-application-c5499bd15c8f)
+
+
 
 ### Virtual Environments
 

@@ -54,6 +54,9 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [ipywidgets](https://ipywidgets.readthedocs.io/en/stable/examples/Widget%20List.html) - Interactive Widgets for the Jupyter Notebook
 - [itk-jupyter-widgets](https://github.com/InsightSoftwareConsortium/itk-jupyter-widgets) - Interactive Jupyter widgets to visualize images in 2D and 3D.
 
+#### Deploying Machine Learning Projects
+- [Learn to Build Machine Learning Services, Prototype Real Applications, and Deploy your Work to Users](https://towardsdatascience.com/learn-to-build-machine-learning-services-prototype-real-applications-and-deploy-your-work-to-aa97b2b09e0c)
+
 
 #### Time Series
 - [Prophet](https://facebook.github.io/prophet/) - A Facebook Time Series Analysis library

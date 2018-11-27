@@ -8,6 +8,7 @@
 - [Python-Textbook](https://python-textbok.readthedocs.io/en/1.0/index.html)
 - [Tutorials Point](https://www.tutorialspoint.com/python)
 - [Python by Programiz](https://www.programiz.com/python-programming/first-program)
+- [Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/)
 
 
 ### Python Projects, OOP, and Building your own Modules

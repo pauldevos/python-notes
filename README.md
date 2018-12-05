@@ -9,6 +9,8 @@
 - [Tutorials Point](https://www.tutorialspoint.com/python)
 - [Python by Programiz](https://www.programiz.com/python-programming/first-program)
 - [Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/)
+- [Berkeley Python Bootcamp](https://www.youtube.com/watch?v=P5BHTrluu1M&list=PLKW2Azk23ZtSeBcvJi0JnL7PapedOvwz9&index=1)
+- [Python Deliberate Practice](https://github.com/robert8138/python-deliberate-practice)
 
 
 ### Python Projects, OOP, and Building your own Modules
@@ -66,6 +68,15 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [geoplotlib](https://github.com/andrea-cuttone/geoplotlib) - python toolbox for visualizing geographical data and making maps
 - [gleam](https://github.com/dgrtwo/gleam) - Creating interactive visualizations with Python
 - [geonotebook](https://github.com/OpenGeoscience/geonotebook) - A Jupyter notebook extension for geospatial visualization and analysis
+- [Bokeh Tutorial](https://github.com/bokeh/bokeh-notebooks/tree/master/tutorial)
+- [Bokeh](https://bokeh.pydata.org/en/latest/docs/user_guide.html#userguide)
+- [Dash](https://github.com/plotly/dash) - Analytical Web Apps for Python. No JavaScript Required. 
+
+
+
+
+
+
 
 #### PDF Converters
  - [python-pdfkit](https://github.com/JazzCore/python-pdfkit) - Wkhtmltopdf python wrapper to convert html to pdf
@@ -80,7 +91,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
 - [JupyterLab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment. 
 - [nteract](https://github.com/nteract/nteract) - The interactive computing suite for you! 
-
+- [jupyterhub](https://github.com/jupyterhub/jupyterhub)
 
 #### Time Series
 - [Prophet](https://facebook.github.io/prophet/) - A Facebook Time Series Analysis library
@@ -100,6 +111,13 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 - [Surprise](https://github.com/NicolasHug/Surprise) - A Python scikit for building and analyzing recommender systems
 - [shap](https://github.com/slundberg/shap) - A unified approach to explain the output of any machine learning model.
+- [ray](https://github.com/ray-project/ray) - A system for parallel and distributed Python that unifies the ML ecosystem. 
+- [kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
+- [Metrics](https://github.com/benhamner/Metrics)- Machine learning evaluation metrics, implemented in Python, R, Haskell, and MATLAB / Octave
+- [MLtest](https://github.com/Thenerdstation/mltest) - Testing framework to simplify writing ML unit tests.
+
+
+
 
 #### Deep Learning Tools
 - [Pyro](http://pyro.ai/examples/) - Pyro is a flexible, scalable deep probabilistic programming library built on PyTorch
@@ -107,6 +125,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP) - Supporting Rapid Prototyping with a Toolkit (incl. Datasets and Neural Network Layers)
 - [OpenCV-Python](https://docs.opencv.org/master/d6/d00/tutorial_py_root.html) - Open Source Computer Vision Library for Python
 - [Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website
+- [TensorFlow Models Examples](https://github.com/tensorflow/models/tree/master/official)
 
 #### Recommender Systems
 - [list_of_recommender_systems](https://github.com/grahamjenson/list_of_recommender_systems)
@@ -126,6 +145,8 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
 
 #### Data Pipeline Tools
+- [Modin](https://github.com/modin-project/modin) - Modin: Speed up your Pandas workflows by changing a single line of code 
+- [Pandas-Profiling](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
 - scikit pipelines
 - Dask
 - PySpark
@@ -145,6 +166,15 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 #### Web Frameworks
 - [Pyramid](https://github.com/Pylons/pyramid)
 - [sanic](https://github.com/huge-success/sanic) - Async Python 3.5+ web server that's written to go fast 
+- [Tornado](https://github.com/tornadoweb/tornado) - Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.
+
+#### Static File Generators
+- [Nikola](https://github.com/getnikola/nikola) - A static website and blog generator
+- [Pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python. 
+
+
+#### APIs
+- [Tweepy](https://github.com/tweepy/tweepy)
 
 
 #### Hacking, PCAPs, and Network Analysis
@@ -198,14 +228,14 @@ https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months
 https://github.com/llSourcell/100_Days_of_ML_Code
 https://github.com/ZuzooVn/machine-learning-for-software-engineers
 https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks
-
+https://github.com/Spandan-Madan/DeepLearningProject
 
 
 #### Python Data Science Books
 - [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 - [Deep-Learning-101](https://github.com/emilwallner/Deep-Learning-101)
 - [Agile Data Science 2.0](https://github.com/rjurney/Agile_Data_Code_2)
-
+- [practical-machine-learning-with-python](https://github.com/dipanjanS/practical-machine-learning-with-python)
 
 
 ### Virtual Environments
@@ -243,10 +273,18 @@ git add requirements.txt
 #### Git Commands
 - [Git-Commands](https://github.com/joshnh/Git-Commands)
 
+#### Codelabs
+- https://codelabs.developers.google.com/?cat=tensorflow
+
 
 #### Awesome Links
 - [Awesome-BigData](https://github.com/onurakpolat/awesome-bigdata)
 - [Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
 - [awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking)
 - [awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering)
+- [awesome-elasticsearch](https://github.com/dzharii/awesome-elasticsearch)
+
+
+
+- [project-based-learning#python](https://github.com/tuvtran/project-based-learning#python)
 

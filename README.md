@@ -64,7 +64,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [pygal](https://github.com/Kozea/pygal) - Python svg Graph plotting Library
 - [geoplotlib](https://github.com/andrea-cuttone/geoplotlib) - python toolbox for visualizing geographical data and making maps
 - [gleam](https://github.com/dgrtwo/gleam) - Creating interactive visualizations with Python
-
+- [geonotebook](https://github.com/OpenGeoscience/geonotebook) - A Jupyter notebook extension for geospatial visualization and analysis
 
 #### PDF Converters
  - [python-pdfkit](https://github.com/JazzCore/python-pdfkit) - Wkhtmltopdf python wrapper to convert html to pdf
@@ -76,6 +76,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [beakerx](https://github.com/twosigma/beakerx) - Beaker Extensions for Jupyter Notebook
 - [nbviewer](https://github.com/jupyter/nbviewer) - nbconvert as a web service: Render Jupyter Notebooks as static web pages
 - [papermill](https://github.com/nteract/papermill) - Parameterize, execute, and analyze notebooks
+- [nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
 
 
 

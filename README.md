@@ -104,13 +104,15 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 
 
 
-#### Hacking
+#### Hacking and Network Analysis
 - [Sublist3r](https://github.com/aboul3la/Sublist3r)
+- [scapy](https://github.com/secdev/scapy)
 - [knock](https://github.com/guelfoweb/knock) - subdomain scanner
 - [scapy-http](https://github.com/invernizzi/scapy-http)
 - [dpkt](https://github.com/kbandla/dpkt)
 - [kamene](https://github.com/phaethon/kamene)
 - [pcapy](https://github.com/SecureAuthCorp/pcapy) - Pcapy is a Python extension module that interfaces with the libpcap packet capture library.
+- [pyshark](https://github.com/KimiNewt/pyshark) - Python wrapper for tshark, allowing python packet parsing using wireshark dissectors
 
 
 
@@ -171,3 +173,9 @@ pip freeze > requirements.txt
 # Check requirements.txt into source control:
 git add requirements.txt
 ```
+
+
+
+#### Git Commands
+- [Git-Commands](https://github.com/joshnh/Git-Commands)
+

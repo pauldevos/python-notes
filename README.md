@@ -65,6 +65,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [PyFlux](https://pyflux.readthedocs.io/en/latest/index.html) - Time series analysis library with flexible range of modelling and inference options.
 
 #### NLP/Text Manipulation
+- [spaCy](https://github.com/explosion/spaCy) - Industrial-strength Natural Language Processing (NLP) with Python and Cython
 - [FlashText](https://flashtext.readthedocs.io/en/latest/) - This module can be used to replace keywords in sentences or extract keywords from sentences.
 - [FuzzyWuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy string matching in Python
 - [re] (regex)

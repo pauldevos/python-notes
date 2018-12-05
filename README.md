@@ -69,9 +69,22 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [FuzzyWuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy string matching in Python
 - [re] (regex)
 - [pampy](https://github.com/santinic/pampy)
+- [textblob](https://github.com/sloria/textblob) - Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.
+
+
+#### Machine Learning
+- [gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
+
 
 #### Deep Learning Tools
 - [Pyro](http://pyro.ai/examples/) - Pyro is a flexible, scalable deep probabilistic programming library built on PyTorch
+
+
+
+
+
+
+
 
 
 #### Hacking

@@ -67,9 +67,14 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 #### NLP/Text Manipulation
 - [FlashText](https://flashtext.readthedocs.io/en/latest/) - This module can be used to replace keywords in sentences or extract keywords from sentences.
 - [FuzzyWuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy string matching in Python
+- [re] (regex)
+- [pampy](https://github.com/santinic/pampy)
+
 
 #### Deep Learning Tools
 - [Pyro](http://pyro.ai/examples/) - Pyro is a flexible, scalable deep probabilistic programming library built on PyTorch
+
+
 
 #### Others
 - [wget](https://bitbucket.org/techtonik/python-wget/src) - free utility for non-interactive downloading files from the web

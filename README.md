@@ -77,7 +77,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [Superset](https://github.com/apache/incubator-superset) - Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
 - [NetworkX](https://github.com/networkx/networkx) - NetworkX is a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
 - [Seaborn](http://seaborn.pydata.org/) - Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
-
+- [ggpy](https://github.com/yhat/ggpy) - ggplot for Python
 
 
 #### PDF Converters
@@ -123,7 +123,9 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 
 #### Statistics
 - [pgmpy](https://github.com/pgmpy/pgmpy) - [Notebook tutorials](https://github.com/pgmpy/pgmpy/tree/dev/examples) - Python Library for Probabilistic Graphical Models
-
+- [Bayesian-Modelling-in-Python](https://github.com/markdregan/Bayesian-Modelling-in-Python)
+- [Thinks Stats 2nd ed](https://github.com/AllenDowney/ThinkStats2)
+- [PyMC3](https://github.com/pymc-devs/pymc3) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Theano
 
 #### Deep Learning Tools
 - [Pyro](http://pyro.ai/examples/) - Pyro is a flexible, scalable deep probabilistic programming library built on PyTorch
@@ -246,9 +248,9 @@ https://github.com/ZuzooVn/machine-learning-for-software-engineers
 https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks
 https://github.com/Spandan-Madan/DeepLearningProject
 - [Machine Learning from Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-
-
-- [Deep Learning Tutorials](https://github.com/lisa-lab/DeepLearningTutorials)
+- [Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects)
+- [Deep Learning Tutorials](https://github.com/lisa-lab/DeepLearningTutorials) - Repository of teaching materials, code, and data for my data analysis and machine learning projects.
+- [Jupyter notebooks from the scikit-learn video series - Justin Markham](https://github.com/justmarkham/scikit-learn-videos)
 
 #### Python Data Science Books
 - [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
@@ -316,4 +318,9 @@ git add requirements.txt
 - [Drag and Drop JS](https://github.com/SortableJS/Sortable)
 - [Proejcts](https://github.com/karan/Projects/) - [Project Solutions](https://github.com/karan/Projects-Solutions)
 - [project-based-learning#python](https://github.com/tuvtran/project-based-learning#python)
+
+
+#### NBA Shot Charts
+- [nbashots](https://github.com/savvastj/nbashots) - NBA shot charts using matplotlib, seaborn, and bokeh.
+
 

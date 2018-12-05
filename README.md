@@ -95,6 +95,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 
 #### Machine Learning
 - [gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
+- [Surprise](https://github.com/NicolasHug/Surprise) - A Python scikit for building and analyzing recommender systems
 
 
 #### Deep Learning Tools

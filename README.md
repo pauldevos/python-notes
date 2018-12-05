@@ -59,6 +59,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [ipywebrtc](https://github.com/maartenbreddels/ipywebrtc) - WebRTC for Jupyter notebook/lab
 - [ipywidgets](https://ipywidgets.readthedocs.io/en/stable/examples/Widget%20List.html) - Interactive Widgets for the Jupyter Notebook
 - [itk-jupyter-widgets](https://github.com/InsightSoftwareConsortium/itk-jupyter-widgets) - Interactive Jupyter widgets to visualize images in 2D and 3D.
+- [scattertext](https://github.com/JasonKessler/scattertext) - Beautiful visualizations of how language differs among document types.
 
 #### Time Series
 - [Prophet](https://facebook.github.io/prophet/) - A Facebook Time Series Analysis library
@@ -67,6 +68,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 #### NLP/Text Manipulation
 - [spaCy](https://github.com/explosion/spaCy) - Industrial-strength Natural Language Processing (NLP) with Python and Cython
 - [FlashText](https://flashtext.readthedocs.io/en/latest/) - This module can be used to replace keywords in sentences or extract keywords from sentences.
+- [textacy](https://github.com/chartbeat-labs/textacy) - NLP, before and after spaCy
 - [FuzzyWuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy string matching in Python
 - [re] (regex)
 - [pampy](https://github.com/santinic/pampy)
@@ -79,6 +81,9 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 
 #### Deep Learning Tools
 - [Pyro](http://pyro.ai/examples/) - Pyro is a flexible, scalable deep probabilistic programming library built on PyTorch
+- [allennlp](https://github.com/allenai/allennlp) - An open-source NLP research library, built on PyTorch.
+- [PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP) - Supporting Rapid Prototyping with a Toolkit (incl. Datasets and Neural Network Layers) 
+
 
 
 

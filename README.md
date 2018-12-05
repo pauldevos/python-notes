@@ -13,6 +13,7 @@
 - [Python Deliberate Practice](https://github.com/robert8138/python-deliberate-practice)
 - [Effective Python](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134034287) - [code](https://github.com/bslatkin/effectivepython)
 
+- [Free Python ebooks](https://pythonbooks.revolunet.com/)
 
 ### Python Projects, OOP, and Building your own Modules
 -------
@@ -41,6 +42,7 @@
 ### Design Patterns
 - [A Collection of Design Patterns in Python](https://github.com/faif/python-patterns)
 - [Toptal - Python Design Patterns](https://www.toptal.com/python/python-design-patterns)
+- [Python Patterns](https://github.com/faif/python-patterns)A collection of design patterns/idioms in Python
 
 
 
@@ -71,7 +73,9 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [geonotebook](https://github.com/OpenGeoscience/geonotebook) - A Jupyter notebook extension for geospatial visualization and analysis
 - [Bokeh Tutorial](https://github.com/bokeh/bokeh-notebooks/tree/master/tutorial)
 - [Bokeh](https://bokeh.pydata.org/en/latest/docs/user_guide.html#userguide)
-- [Dash](https://github.com/plotly/dash) - Analytical Web Apps for Python. No JavaScript Required. 
+- [Dash](https://github.com/plotly/dash) - Analytical Web Apps for Python. No JavaScript Required.
+- [Superset](https://github.com/apache/incubator-superset) - Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
+
 
 
 
@@ -150,9 +154,11 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [Modin](https://github.com/modin-project/modin) - Modin: Speed up your Pandas workflows by changing a single line of code 
 - [Pandas-Profiling](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
 - scikit pipelines
-- Dask
+- [Dask](https://github.com/dask/dask) - Parallel computing with task scheduling
 - PySpark
 - [pypeln](https://github.com/cgarciae/pypeln)- Concurrent data pipelines made easy
+- [smart_open](https://github.com/RaRe-Technologies/smart_open) - Utils for streaming large files (S3, HDFS, gzip, bz2...)
+
 
 #### Pub-Sub, Message Queues, Streaming
 - [kq](https://github.com/joowani/kq) - Kafka-based Job Queue for Python
@@ -169,6 +175,10 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [Pyramid](https://github.com/Pylons/pyramid)
 - [sanic](https://github.com/huge-success/sanic) - Async Python 3.5+ web server that's written to go fast 
 - [Tornado](https://github.com/tornadoweb/tornado) - Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.
+
+#### Flask Tools
+- [Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. 
+- [Awesome-Flask](https://github.com/humiaozuzu/awesome-flask) - A curated list of awesome Flask resources and plugins
 
 #### Static File Generators
 - [Nikola](https://github.com/getnikola/nikola) - A static website and blog generator
@@ -291,6 +301,7 @@ git add requirements.txt
 - [awesome-elasticsearch](https://github.com/dzharii/awesome-elasticsearch)
 
 
+- [Data Science Blogs](https://github.com/rushter/data-science-blogs)
 
 - [Drag and Drop JS](https://github.com/SortableJS/Sortable)
 

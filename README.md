@@ -82,8 +82,12 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 #### Deep Learning Tools
 - [Pyro](http://pyro.ai/examples/) - Pyro is a flexible, scalable deep probabilistic programming library built on PyTorch
 - [allennlp](https://github.com/allenai/allennlp) - An open-source NLP research library, built on PyTorch.
-- [PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP) - Supporting Rapid Prototyping with a Toolkit (incl. Datasets and Neural Network Layers) 
+- [PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP) - Supporting Rapid Prototyping with a Toolkit (incl. Datasets and Neural Network Layers)
 
+#### Web Scraping Tools
+- [BeautifulSoup]()
+- [requests]()
+- [MechanicalSoup](https://github.com/MechanicalSoup/MechanicalSoup) - A Python library for automating interaction with websites.
 
 #### SDLC Tools
 - [yapf](https://github.com/google/yapf) - yet another python formatter
@@ -94,6 +98,8 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
 
 
+#### Web Frameworks
+- [Pyramid](https://github.com/Pylons/pyramid)
 
 
 
@@ -101,6 +107,12 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 #### Hacking
 - [Sublist3r](https://github.com/aboul3la/Sublist3r)
 - [knock](https://github.com/guelfoweb/knock) - subdomain scanner
+- [scapy-http](https://github.com/invernizzi/scapy-http)
+- [dpkt](https://github.com/kbandla/dpkt)
+- [kamene](https://github.com/phaethon/kamene)
+- [pcapy](https://github.com/SecureAuthCorp/pcapy) - Pcapy is a Python extension module that interfaces with the libpcap packet capture library.
+
+
 
 #### GUIs
 - [PySimpleGUI](https://github.com/MikeTheWatchGuy/PySimpleGUI)
@@ -110,6 +122,8 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [wget](https://bitbucket.org/techtonik/python-wget/src) - free utility for non-interactive downloading files from the web
 - [pendulum](https://github.com/sdispater/pendulum) - Python datetime manipulation made easy
 - [python-dotenv](https://github.com/theskumar/python-dotenv) - Get and set values in your .env file in local and production servers.
+- [sqlparse](https://github.com/andialbrecht/sqlparse) - sql parsing tool
+- [credstash](https://github.com/fugue/credstash) - A little utility for managing credentials in the cloud
 
 ### Courses
 ----------

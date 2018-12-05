@@ -70,10 +70,16 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [re] (regex)
 - [pampy](https://github.com/santinic/pampy)
 
-
 #### Deep Learning Tools
 - [Pyro](http://pyro.ai/examples/) - Pyro is a flexible, scalable deep probabilistic programming library built on PyTorch
 
+
+#### Hacking
+- [Sublist3r](https://github.com/aboul3la/Sublist3r)
+
+
+#### GUIs
+- [PySimpleGUI](https://github.com/MikeTheWatchGuy/PySimpleGUI)
 
 
 #### Others

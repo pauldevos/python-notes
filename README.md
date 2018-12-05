@@ -325,6 +325,7 @@ git add requirements.txt
 - [awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering)
 - [awesome-elasticsearch](https://github.com/dzharii/awesome-elasticsearch)
 - [awesome-datascience](https://github.com/bulutyazilim/awesome-datascience)
+- [awesome-flask](https://github.com/humiaozuzu/awesome-flask#full-text-searching)
 
 - [Data Science Blogs](https://github.com/rushter/data-science-blogs)
 

@@ -76,7 +76,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 
 #### Hacking
 - [Sublist3r](https://github.com/aboul3la/Sublist3r)
-
+- [knock](https://github.com/guelfoweb/knock) - subdomain scanner
 
 #### GUIs
 - [PySimpleGUI](https://github.com/MikeTheWatchGuy/PySimpleGUI)

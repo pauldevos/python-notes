@@ -74,10 +74,6 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 
 
 
-
-
-
-
 #### PDF Converters
  - [python-pdfkit](https://github.com/JazzCore/python-pdfkit) - Wkhtmltopdf python wrapper to convert html to pdf
  
@@ -126,6 +122,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [OpenCV-Python](https://docs.opencv.org/master/d6/d00/tutorial_py_root.html) - Open Source Computer Vision Library for Python
 - [Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website
 - [TensorFlow Models Examples](https://github.com/tensorflow/models/tree/master/official)
+- [fastai](https://github.com/fastai/fastai) - The fastai deep learning library, plus lessons and and tutorials 
 
 #### Recommender Systems
 - [list_of_recommender_systems](https://github.com/grahamjenson/list_of_recommender_systems)
@@ -285,6 +282,8 @@ git add requirements.txt
 - [awesome-elasticsearch](https://github.com/dzharii/awesome-elasticsearch)
 
 
+
+- [Drag and Drop JS](https://github.com/SortableJS/Sortable)
 
 - [project-based-learning#python](https://github.com/tuvtran/project-based-learning#python)
 

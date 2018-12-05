@@ -137,6 +137,9 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [pykafka](https://github.com/Parsely/pykafka) - Apache Kafka client for Python; high-level & low-level consumer/producer, with great performance. 
 - [awesome-kafka](https://github.com/infoslack/awesome-kafka) - A list about Apache Kafka
 
+#### Linear Algebra
+- numpy
+- [numerical-linear-algebra](https://github.com/fastai/numerical-linear-algebra)
 
 
 #### Web Frameworks
@@ -245,4 +248,5 @@ git add requirements.txt
 - [Awesome-BigData](https://github.com/onurakpolat/awesome-bigdata)
 - [Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
 - [awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking)
+- [awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering)
 

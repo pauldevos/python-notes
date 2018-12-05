@@ -85,8 +85,13 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP) - Supporting Rapid Prototyping with a Toolkit (incl. Datasets and Neural Network Layers) 
 
 
+#### SDLC Tools
+- [yapf](https://github.com/google/yapf) - yet another python formatter
+- [black](https://github.com/ambv/black) - The uncompromising Python code formatter
 
 
+#### Database Connectors
+- [graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
 
 
 
@@ -104,7 +109,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 #### Others
 - [wget](https://bitbucket.org/techtonik/python-wget/src) - free utility for non-interactive downloading files from the web
 - [pendulum](https://github.com/sdispater/pendulum) - Python datetime manipulation made easy
-
+- [python-dotenv](https://github.com/theskumar/python-dotenv) - Get and set values in your .env file in local and production servers.
 
 ### Courses
 ----------

@@ -77,7 +77,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 
 #### PDF Converters
  - [python-pdfkit](https://github.com/JazzCore/python-pdfkit) - Wkhtmltopdf python wrapper to convert html to pdf
- 
+ - [pdftabextract](https://github.com/WZBSocialScienceCenter/pdftabextract) - A set of tools for extracting tables from PDF files helping to do data mining on (OCR-processed) scanned documents.
  
  
 
@@ -112,6 +112,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
 - [Metrics](https://github.com/benhamner/Metrics)- Machine learning evaluation metrics, implemented in Python, R, Haskell, and MATLAB / Octave
 - [MLtest](https://github.com/Thenerdstation/mltest) - Testing framework to simplify writing ML unit tests.
+- [scikit-plot](https://github.com/reiinakano/scikit-plot) - An intuitive library to add plotting functionality to scikit-learn objects.
 
 
 
@@ -230,6 +231,7 @@ https://github.com/llSourcell/100_Days_of_ML_Code
 https://github.com/ZuzooVn/machine-learning-for-software-engineers
 https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks
 https://github.com/Spandan-Madan/DeepLearningProject
+- [Machine Learning from Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 
 
 #### Python Data Science Books
@@ -239,6 +241,7 @@ https://github.com/Spandan-Madan/DeepLearningProject
 - [Introduction to Statistics With Python](https://github.com/thomas-haslwanter/statsintro_python)
 - [practical-machine-learning-with-python](https://github.com/dipanjanS/practical-machine-learning-with-python)
 - [Deep Learning with Python - François Chollet](https://github.com/fchollet/deep-learning-with-python-notebooks)
+
 
 
 ### Virtual Environments

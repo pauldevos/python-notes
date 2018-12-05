@@ -118,6 +118,8 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [Metrics](https://github.com/benhamner/Metrics)- Machine learning evaluation metrics, implemented in Python, R, Haskell, and MATLAB / Octave
 - [MLtest](https://github.com/Thenerdstation/mltest) - Testing framework to simplify writing ML unit tests.
 - [scikit-plot](https://github.com/reiinakano/scikit-plot) - An intuitive library to add plotting functionality to scikit-learn objects.
+- [H20ai](https://github.com/h2oai/h2o-tutorials) - Tutorials and training material for the H2O Machine Learning Platform
+
 
 #### Statistics
 - [pgmpy](https://github.com/pgmpy/pgmpy) - [Notebook tutorials](https://github.com/pgmpy/pgmpy/tree/dev/examples) - Python Library for Probabilistic Graphical Models
@@ -132,7 +134,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [TensorFlow Models Examples](https://github.com/tensorflow/models/tree/master/official)
 - [fastai](https://github.com/fastai/fastai) - The fastai deep learning library, plus lessons and and tutorials 
 - [Keras](https://github.com/keras-team/keras)
-
+- [TensorFlow](https://github.com/tensorflow/tensorflow)
 
 
 #### Recommender Systems
@@ -246,6 +248,8 @@ https://github.com/Spandan-Madan/DeepLearningProject
 - [Machine Learning from Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 
 
+- [Deep Learning Tutorials](https://github.com/lisa-lab/DeepLearningTutorials)
+
 #### Python Data Science Books
 - [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 - [Deep-Learning-101](https://github.com/emilwallner/Deep-Learning-101)
@@ -255,6 +259,8 @@ https://github.com/Spandan-Madan/DeepLearningProject
 - [Deep Learning with Python - François Chollet](https://github.com/fchollet/deep-learning-with-python-notebooks)
 - [ISLR in Python](https://github.com/JWarmenhoven/ISLR-python) - An Introduction to Statistical Learning (James, Witten, Hastie, Tibshirani, 2013): Python code
 - [Coursera ML - Andrew Ng in Python](https://github.com/JWarmenhoven/Coursera-Machine-Learning)
+- [Think Python 2nd ed](https://github.com/AllenDowney/ThinkPython2)
+- [Thinks Stats 2nd ed](https://github.com/AllenDowney/ThinkStats2)
 
 
 
@@ -308,6 +314,6 @@ git add requirements.txt
 - [Data Science Blogs](https://github.com/rushter/data-science-blogs)
 
 - [Drag and Drop JS](https://github.com/SortableJS/Sortable)
-
+- [Proejcts](https://github.com/karan/Projects/) - [Project Solutions](https://github.com/karan/Projects-Solutions)
 - [project-based-learning#python](https://github.com/tuvtran/project-based-learning#python)
 

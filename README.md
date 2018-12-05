@@ -75,7 +75,8 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [Bokeh](https://bokeh.pydata.org/en/latest/docs/user_guide.html#userguide)
 - [Dash](https://github.com/plotly/dash) - Analytical Web Apps for Python. No JavaScript Required.
 - [Superset](https://github.com/apache/incubator-superset) - Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
-
+- [NetworkX](https://github.com/networkx/networkx) - NetworkX is a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
+- [Seaborn](http://seaborn.pydata.org/) - Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
 
 
 
@@ -118,7 +119,8 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [MLtest](https://github.com/Thenerdstation/mltest) - Testing framework to simplify writing ML unit tests.
 - [scikit-plot](https://github.com/reiinakano/scikit-plot) - An intuitive library to add plotting functionality to scikit-learn objects.
 
-
+#### Statistics
+- [pgmpy](https://github.com/pgmpy/pgmpy) - [Notebook tutorials](https://github.com/pgmpy/pgmpy/tree/dev/examples) - Python Library for Probabilistic Graphical Models
 
 
 #### Deep Learning Tools
@@ -251,6 +253,8 @@ https://github.com/Spandan-Madan/DeepLearningProject
 - [Introduction to Statistics With Python](https://github.com/thomas-haslwanter/statsintro_python)
 - [practical-machine-learning-with-python](https://github.com/dipanjanS/practical-machine-learning-with-python)
 - [Deep Learning with Python - François Chollet](https://github.com/fchollet/deep-learning-with-python-notebooks)
+- [ISLR in Python](https://github.com/JWarmenhoven/ISLR-python) - An Introduction to Statistical Learning (James, Witten, Hastie, Tibshirani, 2013): Python code
+- [Coursera ML - Andrew Ng in Python](https://github.com/JWarmenhoven/Coursera-Machine-Learning)
 
 
 

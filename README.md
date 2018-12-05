@@ -92,12 +92,12 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [re] (regex)
 - [pampy](https://github.com/santinic/pampy)
 - [textblob](https://github.com/sloria/textblob) - Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.
-
+- [nlp-text-mining-working-examples](https://github.com/kavgan/nlp-text-mining-working-examples)
 
 #### Machine Learning
 - [gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 - [Surprise](https://github.com/NicolasHug/Surprise) - A Python scikit for building and analyzing recommender systems
-
+- [shap](https://github.com/slundberg/shap) - A unified approach to explain the output of any machine learning model.
 
 #### Deep Learning Tools
 - [Pyro](http://pyro.ai/examples/) - Pyro is a flexible, scalable deep probabilistic programming library built on PyTorch
@@ -105,6 +105,9 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP) - Supporting Rapid Prototyping with a Toolkit (incl. Datasets and Neural Network Layers)
 - [OpenCV-Python](https://docs.opencv.org/master/d6/d00/tutorial_py_root.html) - Open Source Computer Vision Library for Python
 - [Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website
+
+#### Recommender Systems
+- [list_of_recommender_systems](https://github.com/grahamjenson/list_of_recommender_systems)
 
 
 #### Web Scraping Tools
@@ -183,7 +186,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 #### Python Data Science Books
 - [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 - [Deep-Learning-101](https://github.com/emilwallner/Deep-Learning-101)
-
+- [Agile Data Science 2.0](https://github.com/rjurney/Agile_Data_Code_2)
 
 
 

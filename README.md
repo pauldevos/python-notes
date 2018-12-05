@@ -8,10 +8,13 @@
 - [Python-Textbook](https://python-textbok.readthedocs.io/en/1.0/index.html)
 - [Tutorials Point](https://www.tutorialspoint.com/python)
 - [Python by Programiz](https://www.programiz.com/python-programming/first-program)
+
+- 2nd Tier (haven't tried these yet)
 - [Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/)
 - [Berkeley Python Bootcamp](https://www.youtube.com/watch?v=P5BHTrluu1M&list=PLKW2Azk23ZtSeBcvJi0JnL7PapedOvwz9&index=1)
 - [Python Deliberate Practice](https://github.com/robert8138/python-deliberate-practice)
 - [Effective Python](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134034287) - [code](https://github.com/bslatkin/effectivepython)
+- [Python Tips & Tutorials - Sebastian Raschka](https://github.com/rasbt/python_reference#-python-tips-and-tutorials)
 
 - [Free Python ebooks](https://pythonbooks.revolunet.com/)
 
@@ -78,13 +81,9 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [NetworkX](https://github.com/networkx/networkx) - NetworkX is a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
 - [Seaborn](http://seaborn.pydata.org/) - Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
 - [ggpy](https://github.com/yhat/ggpy) - ggplot for Python
+- [Matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
+- [Plotly](https://github.com/plotly/plotly.py) - An open-source, interactive graphing library for Python
 
-
-#### PDF Converters
- - [python-pdfkit](https://github.com/JazzCore/python-pdfkit) - Wkhtmltopdf python wrapper to convert html to pdf
- - [pdftabextract](https://github.com/WZBSocialScienceCenter/pdftabextract) - A set of tools for extracting tables from PDF files helping to do data mining on (OCR-processed) scanned documents.
- 
- 
 
 #### Notebook Tools
 - [beakerx](https://github.com/twosigma/beakerx) - Beaker Extensions for Jupyter Notebook
@@ -95,9 +94,11 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [nteract](https://github.com/nteract/nteract) - The interactive computing suite for you! 
 - [jupyterhub](https://github.com/jupyterhub/jupyterhub)
 
+
 #### Time Series
 - [Prophet](https://facebook.github.io/prophet/) - A Facebook Time Series Analysis library
 - [PyFlux](https://pyflux.readthedocs.io/en/latest/index.html) - Time series analysis library with flexible range of modelling and inference options.
+
 
 #### NLP/Text Manipulation
 - [spaCy](https://github.com/explosion/spaCy) - Industrial-strength Natural Language Processing (NLP) with Python and Cython
@@ -108,6 +109,8 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [pampy](https://github.com/santinic/pampy)
 - [textblob](https://github.com/sloria/textblob) - Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.
 - [nlp-text-mining-working-examples](https://github.com/kavgan/nlp-text-mining-working-examples)
+- [Pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
+
 
 #### Machine Learning
 - [gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
@@ -126,6 +129,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [Bayesian-Modelling-in-Python](https://github.com/markdregan/Bayesian-Modelling-in-Python)
 - [Thinks Stats 2nd ed](https://github.com/AllenDowney/ThinkStats2)
 - [PyMC3](https://github.com/pymc-devs/pymc3) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Theano
+
 
 #### Deep Learning Tools
 - [Pyro](http://pyro.ai/examples/) - Pyro is a flexible, scalable deep probabilistic programming library built on PyTorch
@@ -191,6 +195,11 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [Pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python. 
 
 
+#### PDF Converters
+ - [python-pdfkit](https://github.com/JazzCore/python-pdfkit) - Wkhtmltopdf python wrapper to convert html to pdf
+ - [pdftabextract](https://github.com/WZBSocialScienceCenter/pdftabextract) - A set of tools for extracting tables from PDF files helping to do data mining on (OCR-processed) scanned documents.
+
+
 #### APIs
 - [Tweepy](https://github.com/tweepy/tweepy)
 
@@ -251,6 +260,7 @@ https://github.com/Spandan-Madan/DeepLearningProject
 - [Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects)
 - [Deep Learning Tutorials](https://github.com/lisa-lab/DeepLearningTutorials) - Repository of teaching materials, code, and data for my data analysis and machine learning projects.
 - [Jupyter notebooks from the scikit-learn video series - Justin Markham](https://github.com/justmarkham/scikit-learn-videos)
+- [TensorFlow Tutorials](https://github.com/pkmital/tensorflow_tutorials)
 
 #### Python Data Science Books
 - [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
@@ -263,7 +273,10 @@ https://github.com/Spandan-Madan/DeepLearningProject
 - [Coursera ML - Andrew Ng in Python](https://github.com/JWarmenhoven/Coursera-Machine-Learning)
 - [Think Python 2nd ed](https://github.com/AllenDowney/ThinkPython2)
 - [Thinks Stats 2nd ed](https://github.com/AllenDowney/ThinkStats2)
-
+- [Data Science from Scratch](https://github.com/joelgrus/data-science-from-scratch)
+- [Introduction to Artificial Neural Networks and Deep Learning: A Practical Guide with Applications in Python - Sebastian Raschka](https://github.com/rasbt/deep-learning-book)
+- [Python Machine Learning (2nd edition) - Sebastian Raschka](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
+- [Pattern Classification - Sebastian Raschka](https://github.com/rasbt/pattern_classification)
 
 
 ### Virtual Environments
@@ -311,7 +324,7 @@ git add requirements.txt
 - [awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking)
 - [awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering)
 - [awesome-elasticsearch](https://github.com/dzharii/awesome-elasticsearch)
-
+- [awesome-datascience](https://github.com/bulutyazilim/awesome-datascience)
 
 - [Data Science Blogs](https://github.com/rushter/data-science-blogs)
 

@@ -60,6 +60,24 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [ipywidgets](https://ipywidgets.readthedocs.io/en/stable/examples/Widget%20List.html) - Interactive Widgets for the Jupyter Notebook
 - [itk-jupyter-widgets](https://github.com/InsightSoftwareConsortium/itk-jupyter-widgets) - Interactive Jupyter widgets to visualize images in 2D and 3D.
 - [scattertext](https://github.com/JasonKessler/scattertext) - Beautiful visualizations of how language differs among document types.
+- [missingno](https://github.com/ResidentMario/missingno) - Visualize missing data
+- [pygal](https://github.com/Kozea/pygal) - Python svg Graph plotting Library
+- [geoplotlib](https://github.com/andrea-cuttone/geoplotlib) - python toolbox for visualizing geographical data and making maps
+- [gleam](https://github.com/dgrtwo/gleam) - Creating interactive visualizations with Python
+
+
+#### PDF Converters
+ - [python-pdfkit](https://github.com/JazzCore/python-pdfkit) - Wkhtmltopdf python wrapper to convert html to pdf
+ 
+ 
+ 
+
+#### Notebook Tools
+- [beakerx](https://github.com/twosigma/beakerx) - Beaker Extensions for Jupyter Notebook
+- [nbviewer](https://github.com/jupyter/nbviewer) - nbconvert as a web service: Render Jupyter Notebooks as static web pages
+- [papermill](https://github.com/nteract/papermill) - Parameterize, execute, and analyze notebooks
+
+
 
 #### Time Series
 - [Prophet](https://facebook.github.io/prophet/) - A Facebook Time Series Analysis library
@@ -83,6 +101,9 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [Pyro](http://pyro.ai/examples/) - Pyro is a flexible, scalable deep probabilistic programming library built on PyTorch
 - [allennlp](https://github.com/allenai/allennlp) - An open-source NLP research library, built on PyTorch.
 - [PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP) - Supporting Rapid Prototyping with a Toolkit (incl. Datasets and Neural Network Layers)
+- [OpenCV-Python](https://docs.opencv.org/master/d6/d00/tutorial_py_root.html) - Open Source Computer Vision Library for Python
+- [Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website
+
 
 #### Web Scraping Tools
 - [BeautifulSoup]()
@@ -100,11 +121,10 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 
 #### Web Frameworks
 - [Pyramid](https://github.com/Pylons/pyramid)
+- [sanic](https://github.com/huge-success/sanic) - Async Python 3.5+ web server that's written to go fast 
 
 
-
-
-#### Hacking and Network Analysis
+#### Hacking, PCAPs, and Network Analysis
 - [Sublist3r](https://github.com/aboul3la/Sublist3r)
 - [scapy](https://github.com/secdev/scapy)
 - [knock](https://github.com/guelfoweb/knock) - subdomain scanner
@@ -113,6 +133,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [kamene](https://github.com/phaethon/kamene)
 - [pcapy](https://github.com/SecureAuthCorp/pcapy) - Pcapy is a Python extension module that interfaces with the libpcap packet capture library.
 - [pyshark](https://github.com/KimiNewt/pyshark) - Python wrapper for tshark, allowing python packet parsing using wireshark dissectors
+- [PyPCAPKit](https://github.com/JarryShaw/PyPCAPKit) - Python multi-engine PCAP analyse kit.
 
 
 
@@ -141,6 +162,13 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [Combining D3 with Kedion: Graduating from Toy Visuals to Real Applications](https://towardsdatascience.com/combining-d3-with-kedion-graduating-from-toy-visuals-to-real-applications-92bf7c3cc713)
 - [World of Data Science](http://www.worldofdatascience.com/index.html)
 - [Learning How to Build a Web Application](https://medium.com/@rchang/learning-how-to-build-a-web-application-c5499bd15c8f)
+
+
+
+#### Python Data Science Books
+- [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+- [Deep-Learning-101](https://github.com/emilwallner/Deep-Learning-101)
+
 
 
 
@@ -178,4 +206,10 @@ git add requirements.txt
 
 #### Git Commands
 - [Git-Commands](https://github.com/joshnh/Git-Commands)
+
+
+#### Awesome Links
+- [Awesome-BigData](https://github.com/onurakpolat/awesome-bigdata)
+- [Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
+
 

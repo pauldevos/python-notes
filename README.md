@@ -126,6 +126,13 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - PySpark
 - [pypeln](https://github.com/cgarciae/pypeln)- Concurrent data pipelines made easy
 
+#### Pub-Sub, Message Queues, Streaming
+- [kq](https://github.com/joowani/kq) - Kafka-based Job Queue for Python
+- [sockets]()
+- [pykafka](https://github.com/Parsely/pykafka) - Apache Kafka client for Python; high-level & low-level consumer/producer, with great performance. 
+- [awesome-kafka](https://github.com/infoslack/awesome-kafka) - A list about Apache Kafka
+
+
 
 #### Web Frameworks
 - [Pyramid](https://github.com/Pylons/pyramid)
@@ -142,7 +149,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [pcapy](https://github.com/SecureAuthCorp/pcapy) - Pcapy is a Python extension module that interfaces with the libpcap packet capture library.
 - [pyshark](https://github.com/KimiNewt/pyshark) - Python wrapper for tshark, allowing python packet parsing using wireshark dissectors
 - [PyPCAPKit](https://github.com/JarryShaw/PyPCAPKit) - Python multi-engine PCAP analyse kit.
-
+- [fsociety](https://github.com/Manisso/fsociety) - fsociety Hacking Tools Pack – A Penetration Testing Framework
 
 
 #### GUIs
@@ -219,5 +226,5 @@ git add requirements.txt
 #### Awesome Links
 - [Awesome-BigData](https://github.com/onurakpolat/awesome-bigdata)
 - [Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
-
+- [awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking)
 

@@ -119,6 +119,12 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 #### Database Connectors
 - [graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
 
+#### Data Pipeline Tools
+- scikit pipelines
+- Dask
+- PySpark
+- [pypeln](https://github.com/cgarciae/pypeln)- Concurrent data pipelines made easy
+
 
 #### Web Frameworks
 - [Pyramid](https://github.com/Pylons/pyramid)

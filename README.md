@@ -47,6 +47,7 @@
 --------------
 
 #### Data Visualization
+- [Python Graph Gallery](https://python-graph-gallery.com/)
 - [ipyvolume](https://github.com/maartenbreddels/ipyvolume) - 3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL
 - [Dash](https://dash.plot.ly/) - Written on top of Flask, Plotly.js, and React.js, Dash can be used for highly custom user interfaces in Python
 - [Chartify](https://github.com/spotify/chartify/) - Same interface for plots with a goal to make it easy to use Bokeh plots.
@@ -77,7 +78,8 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [nbviewer](https://github.com/jupyter/nbviewer) - nbconvert as a web service: Render Jupyter Notebooks as static web pages
 - [papermill](https://github.com/nteract/papermill) - Parameterize, execute, and analyze notebooks
 - [nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
-
+- [JupyterLab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment. 
+- [nteract](https://github.com/nteract/nteract) - The interactive computing suite for you! 
 
 
 #### Time Series
@@ -108,7 +110,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 
 #### Recommender Systems
 - [list_of_recommender_systems](https://github.com/grahamjenson/list_of_recommender_systems)
-
+- [Amazon-Product-Recommender-System](https://github.com/mandeep147/Amazon-Product-Recommender-System) - Sentiment analysis on Amazon Review Dataset available at http://snap.stanford.edu/data/web-Amazon.html
 
 #### Web Scraping Tools
 - [BeautifulSoup]()
@@ -180,6 +182,19 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [Combining D3 with Kedion: Graduating from Toy Visuals to Real Applications](https://towardsdatascience.com/combining-d3-with-kedion-graduating-from-toy-visuals-to-real-applications-92bf7c3cc713)
 - [World of Data Science](http://www.worldofdatascience.com/index.html)
 - [Learning How to Build a Web Application](https://medium.com/@rchang/learning-how-to-build-a-web-application-c5499bd15c8f)
+
+
+#### Machine Learning - Interesting Repos
+- [Siraj Raval](https://github.com/llSourcell)
+https://github.com/rushter/MLAlgorithms
+https://github.com/WillKoehrsen/Data-Analysis
+https://github.com/WillKoehrsen/machine-learning-project-walkthrough
+https://github.com/Avik-Jain/100-Days-Of-ML-Code
+https://github.com/llSourcell/Learn_Data_Science_in_3_Months
+https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months
+https://github.com/llSourcell/100_Days_of_ML_Code
+https://github.com/ZuzooVn/machine-learning-for-software-engineers
+https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks
 
 
 

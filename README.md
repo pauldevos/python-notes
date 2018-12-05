@@ -11,6 +11,7 @@
 - [Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/)
 - [Berkeley Python Bootcamp](https://www.youtube.com/watch?v=P5BHTrluu1M&list=PLKW2Azk23ZtSeBcvJi0JnL7PapedOvwz9&index=1)
 - [Python Deliberate Practice](https://github.com/robert8138/python-deliberate-practice)
+- [Effective Python](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134034287) - [code](https://github.com/bslatkin/effectivepython)
 
 
 ### Python Projects, OOP, and Building your own Modules
@@ -123,6 +124,9 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website
 - [TensorFlow Models Examples](https://github.com/tensorflow/models/tree/master/official)
 - [fastai](https://github.com/fastai/fastai) - The fastai deep learning library, plus lessons and and tutorials 
+- [Keras](https://github.com/keras-team/keras)
+
+
 
 #### Recommender Systems
 - [list_of_recommender_systems](https://github.com/grahamjenson/list_of_recommender_systems)
@@ -232,7 +236,9 @@ https://github.com/Spandan-Madan/DeepLearningProject
 - [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 - [Deep-Learning-101](https://github.com/emilwallner/Deep-Learning-101)
 - [Agile Data Science 2.0](https://github.com/rjurney/Agile_Data_Code_2)
+- [Introduction to Statistics With Python](https://github.com/thomas-haslwanter/statsintro_python)
 - [practical-machine-learning-with-python](https://github.com/dipanjanS/practical-machine-learning-with-python)
+- [Deep Learning with Python - François Chollet](https://github.com/fchollet/deep-learning-with-python-notebooks)
 
 
 ### Virtual Environments

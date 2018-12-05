@@ -83,7 +83,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [ggpy](https://github.com/yhat/ggpy) - ggplot for Python
 - [Matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
 - [Plotly](https://github.com/plotly/plotly.py) - An open-source, interactive graphing library for Python
-
+- [AnatomyOfMatplotlib (Tutorial)](https://github.com/matplotlib/AnatomyOfMatplotlib) - Anatomy of Matplotlib -- tutorial developed for the SciPy conference
 
 #### Notebook Tools
 - [beakerx](https://github.com/twosigma/beakerx) - Beaker Extensions for Jupyter Notebook
@@ -129,7 +129,8 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [Bayesian-Modelling-in-Python](https://github.com/markdregan/Bayesian-Modelling-in-Python)
 - [Thinks Stats 2nd ed](https://github.com/AllenDowney/ThinkStats2)
 - [PyMC3](https://github.com/pymc-devs/pymc3) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Theano
-
+- [Intro2Stats (Tutorial)](https://github.com/rouseguy/intro2stats/tree/master/notebooks)
+- [Think Bayes](https://github.com/AllenDowney/ThinkBayes2)
 
 #### Deep Learning Tools
 - [Pyro](http://pyro.ai/examples/) - Pyro is a flexible, scalable deep probabilistic programming library built on PyTorch
@@ -161,6 +162,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
 
 #### Data Pipeline Tools
+- [Pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [Modin](https://github.com/modin-project/modin) - Modin: Speed up your Pandas workflows by changing a single line of code 
 - [Pandas-Profiling](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
 - scikit pipelines
@@ -168,6 +170,8 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - PySpark
 - [pypeln](https://github.com/cgarciae/pypeln)- Concurrent data pipelines made easy
 - [smart_open](https://github.com/RaRe-Technologies/smart_open) - Utils for streaming large files (S3, HDFS, gzip, bz2...)
+- [Blaze](https://github.com/blaze/blaze) - NumPy and Pandas interface to Big Data
+- [Faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 
 
 #### Pub-Sub, Message Queues, Streaming
@@ -277,7 +281,7 @@ https://github.com/Spandan-Madan/DeepLearningProject
 - [Introduction to Artificial Neural Networks and Deep Learning: A Practical Guide with Applications in Python - Sebastian Raschka](https://github.com/rasbt/deep-learning-book)
 - [Python Machine Learning (2nd edition) - Sebastian Raschka](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
 - [Pattern Classification - Sebastian Raschka](https://github.com/rasbt/pattern_classification)
-
+- [Think Bayes](https://github.com/AllenDowney/ThinkBayes2)
 
 ### Virtual Environments
 

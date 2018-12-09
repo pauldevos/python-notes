@@ -94,6 +94,9 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [nteract](https://github.com/nteract/nteract) - The interactive computing suite for you! 
 - [jupyterhub](https://github.com/jupyterhub/jupyterhub)
 
+- Articles
+- [PayPal Notebooks, powered by Jupyter: Enabling the next generation of data scientists at scale](https://medium.com/paypal-engineering/paypal-notebooks-powered-by-jupyter-fd0067bd00b0)
+
 
 #### Time Series
 - [Prophet](https://facebook.github.io/prophet/) - A Facebook Time Series Analysis library

@@ -49,6 +49,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 
 - Articles
 - [PayPal Notebooks, powered by Jupyter: Enabling the next generation of data scientists at scale](https://medium.com/paypal-engineering/paypal-notebooks-powered-by-jupyter-fd0067bd00b0)
+- [PayPal Notebook Extensions](https://github.com/paypal/PPExtensions)
 
 -------------
 

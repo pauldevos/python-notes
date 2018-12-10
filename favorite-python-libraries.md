@@ -36,6 +36,16 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [AnatomyOfMatplotlib (Tutorial)](https://github.com/matplotlib/AnatomyOfMatplotlib) - Anatomy of Matplotlib -- tutorial developed for the SciPy conference
 
 -------------
+#### D3
+
+- [Hitchhiker's Guide to D3.js](https://medium.com/@enjalot/the-hitchhikers-guide-to-d3-js-a8552174733a)
+- [D3 Charts and Chartbuilder](https://blockbuilder.org/search)
+- [D3 Tutorials](https://github.com/d3/d3/wiki/Tutorials)
+- [D3 API Reference](https://github.com/d3/d3/blob/master/API.md)
+- [Awesome-D3](https://github.com/wbkd/awesome-d3#charts)
+
+
+-------------
 #### Notebook Tools
 - [beakerx](https://github.com/twosigma/beakerx) - Beaker Extensions for Jupyter Notebook
 - [nbviewer](https://github.com/jupyter/nbviewer) - nbconvert as a web service: Render Jupyter Notebooks as static web pages

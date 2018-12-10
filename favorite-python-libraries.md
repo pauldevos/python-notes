@@ -107,6 +107,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 #### Recommender Systems
 - [list_of_recommender_systems](https://github.com/grahamjenson/list_of_recommender_systems)
 - [Amazon-Product-Recommender-System](https://github.com/mandeep147/Amazon-Product-Recommender-System) - Sentiment analysis on Amazon Review Dataset available at http://snap.stanford.edu/data/web-Amazon.html
+- [Building a Recommendation System Using Neural Network Embeddings](https://towardsdatascience.com/building-a-recommendation-system-using-neural-network-embeddings-1ef92e5c80c9)
 
 #### Web Scraping Tools
 - [BeautifulSoup]()

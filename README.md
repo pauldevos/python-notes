@@ -93,6 +93,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [JupyterLab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment. 
 - [nteract](https://github.com/nteract/nteract) - The interactive computing suite for you! 
 - [jupyterhub](https://github.com/jupyterhub/jupyterhub)
+- [Sparkmagic](https://github.com/jupyter-incubator/sparkmagic) - Jupyter magics and kernels for working with remote Spark clusters
 
 - Articles
 - [PayPal Notebooks, powered by Jupyter: Enabling the next generation of data scientists at scale](https://medium.com/paypal-engineering/paypal-notebooks-powered-by-jupyter-fd0067bd00b0)

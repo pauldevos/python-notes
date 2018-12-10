@@ -254,9 +254,9 @@ https://github.com/Spandan-Madan/DeepLearningProject
 - [Python Machine Learning (2nd edition) - Sebastian Raschka](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
 - [Pattern Classification - Sebastian Raschka](https://github.com/rasbt/pattern_classification)
 - [Think Bayes](https://github.com/AllenDowney/ThinkBayes2)
+- [Make Your Own Neural Network](https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork)
 
-
-
+- [Learning AI if you Suck at Math](https://hackernoon.com/learning-ai-if-you-suck-at-math-8bdfb4b79037)
 
 
 

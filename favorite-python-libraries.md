@@ -35,6 +35,8 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [Plotly](https://github.com/plotly/plotly.py) - An open-source, interactive graphing library for Python
 - [AnatomyOfMatplotlib (Tutorial)](https://github.com/matplotlib/AnatomyOfMatplotlib) - Anatomy of Matplotlib -- tutorial developed for the SciPy conference
 
+-------------
+
 #### Notebook Tools
 - [beakerx](https://github.com/twosigma/beakerx) - Beaker Extensions for Jupyter Notebook
 - [nbviewer](https://github.com/jupyter/nbviewer) - nbconvert as a web service: Render Jupyter Notebooks as static web pages
@@ -48,11 +50,13 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - Articles
 - [PayPal Notebooks, powered by Jupyter: Enabling the next generation of data scientists at scale](https://medium.com/paypal-engineering/paypal-notebooks-powered-by-jupyter-fd0067bd00b0)
 
+-------------
 
 #### Time Series
 - [Prophet](https://facebook.github.io/prophet/) - A Facebook Time Series Analysis library
 - [PyFlux](https://pyflux.readthedocs.io/en/latest/index.html) - Time series analysis library with flexible range of modelling and inference options.
 
+-------------
 
 #### NLP/Text Manipulation
 - [spaCy](https://github.com/explosion/spaCy) - Industrial-strength Natural Language Processing (NLP) with Python and Cython
@@ -65,6 +69,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [nlp-text-mining-working-examples](https://github.com/kavgan/nlp-text-mining-working-examples)
 - [Pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
 
+-------------
 
 #### Machine Learning
 - [gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.

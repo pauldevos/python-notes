@@ -37,19 +37,6 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 
 -------------
 
-#### Notebook Tools
-- [beakerx](https://github.com/twosigma/beakerx) - Beaker Extensions for Jupyter Notebook
-- [nbviewer](https://github.com/jupyter/nbviewer) - nbconvert as a web service: Render Jupyter Notebooks as static web pages
-- [papermill](https://github.com/nteract/papermill) - Parameterize, execute, and analyze notebooks
-- [nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
-- [JupyterLab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment. 
-- [nteract](https://github.com/nteract/nteract) - The interactive computing suite for you! 
-- [jupyterhub](https://github.com/jupyterhub/jupyterhub)
-- [Sparkmagic](https://github.com/jupyter-incubator/sparkmagic) - Jupyter magics and kernels for working with remote Spark clusters
-
-- [Jupyter Notebook Extensions](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231)
-- [PayPal Notebooks, powered by Jupyter: Enabling the next generation of data scientists at scale](https://medium.com/paypal-engineering/paypal-notebooks-powered-by-jupyter-fd0067bd00b0)
-- [PayPal Notebook Extensions](https://github.com/paypal/PPExtensions)
 
 -------------
 

@@ -45,7 +45,8 @@
 ### Design Patterns
 - [A Collection of Design Patterns in Python](https://github.com/faif/python-patterns)
 - [Toptal - Python Design Patterns](https://www.toptal.com/python/python-design-patterns)
-- [Python Patterns](https://github.com/faif/python-patterns)A collection of design patterns/idioms in Python
+- [Python Patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
+- [10 Common Software Architectural Patterns in a nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 
 
 

@@ -62,7 +62,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [How to write a Jupyter Notebook Extension](https://towardsdatascience.com/how-to-write-a-jupyter-notebook-extension-a63f9578a38c)
 - [nbtutor](https://github.com/lgpage/nbtutor) - Visualize Python code execution (line-by-line) in Jupyter Notebook cells.
 - [py_d3](https://github.com/ResidentMario/py_d3) - D3 block magic for Jupyter notebook
-- [ipyaggrid](https://dgothrek.gitlab.io/ipyaggrid/) ([Features])(https://www.ag-grid.com/javascript-grid-features/) - Using ag-Grid in Jupyter notebooks
+- [ipyaggrid](https://dgothrek.gitlab.io/ipyaggrid/) ([Features](https://www.ag-grid.com/javascript-grid-features/)) - Using ag-Grid in Jupyter notebooks
 -------------
 
 #### Time Series

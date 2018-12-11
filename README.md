@@ -1,8 +1,7 @@
 # mastering-python
 
-### Good Overviews of Python (Online or Paper)
 -----
-
+### Good Overviews of Python (Online or Paper)
 
 - [The Hitchhikere's Guide to Python](https://docs.python-guide.org/)
 - [Python-Textbook](https://python-textbok.readthedocs.io/en/1.0/index.html)
@@ -15,16 +14,18 @@
 - [Python Tips & Tutorials - Sebastian Raschka](https://github.com/rasbt/python_reference#-python-tips-and-tutorials)
 - [Free Python ebooks](https://pythonbooks.revolunet.com/)
 
-### Writing Python Modules - Some Essential Python Libraries
 -----
+### Writing Python Modules - Some Essential Python Libraries
+
 - [The Hitchhiker's Guide to Packaging](https://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/index.html)
 - [The Hitchhiker's Guide to Structuring Your Project](https://docs.python-guide.org/writing/structure/)
 - [setup.py](https://github.com/kennethreitz/setup.py)
 - [attr](https://attrs.readthedocs.io/en/stable/)
   - [attr - The One Python Library Everyone Needs](https://glyph.twistedmatrix.com/2016/08/attrs.html)
 
-### OOP
 -----
+### OOP
+
 - [A Byte of Python](https://python.swaroopch.com/oop.html)
 - [The Python Tutorial - Classes](https://docs.python.org/3/tutorial/classes.html)
 - [Object-Oriented Programming (OOP) in Python 3](https://realpython.com/python3-object-oriented-programming/)
@@ -37,17 +38,18 @@
 - [Raymond Hettinger - Python's Class Development Toolkit](https://www.youtube.com/watch?v=HTLu2DFOdTg)
 - [OOP - Trying To Design A Good Class Structure)](https://stackoverflow.com/questions/39922553/oop-trying-to-design-a-good-class-structure)
 
-### Design Patterns
 -----
+### Design Patterns
+
 - [A Collection of Design Patterns in Python](https://github.com/faif/python-patterns)
 - [Toptal - Python Design Patterns](https://www.toptal.com/python/python-design-patterns)
 - [Python Patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 - [10 Common Software Architectural Patterns in a nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 
 
-
-### Virtual Environments
 -----
+### Virtual Environments
+
 Creating Your First Project & Virtual Environment
 
 ```

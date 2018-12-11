@@ -15,18 +15,16 @@
 - [Python Tips & Tutorials - Sebastian Raschka](https://github.com/rasbt/python_reference#-python-tips-and-tutorials)
 - [Free Python ebooks](https://pythonbooks.revolunet.com/)
 
-### Python Projects, OOP, and Building your own Modules
--------
-
-### Writing Good Python Modules - Some Essential Python Libraries
+### Writing Python Modules - Some Essential Python Libraries
+-----
 - [The Hitchhiker's Guide to Packaging](https://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/index.html)
 - [The Hitchhiker's Guide to Structuring Your Project](https://docs.python-guide.org/writing/structure/)
 - [setup.py](https://github.com/kennethreitz/setup.py)
 - [attr](https://attrs.readthedocs.io/en/stable/)
   - [attr - The One Python Library Everyone Needs](https://glyph.twistedmatrix.com/2016/08/attrs.html)
 
-
 ### OOP
+-----
 - [A Byte of Python](https://python.swaroopch.com/oop.html)
 - [The Python Tutorial - Classes](https://docs.python.org/3/tutorial/classes.html)
 - [Object-Oriented Programming (OOP) in Python 3](https://realpython.com/python3-object-oriented-programming/)
@@ -40,6 +38,7 @@
 - [OOP - Trying To Design A Good Class Structure)](https://stackoverflow.com/questions/39922553/oop-trying-to-design-a-good-class-structure)
 
 ### Design Patterns
+-----
 - [A Collection of Design Patterns in Python](https://github.com/faif/python-patterns)
 - [Toptal - Python Design Patterns](https://www.toptal.com/python/python-design-patterns)
 - [Python Patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
@@ -47,12 +46,8 @@
 
 
 
-
-
-
-
 ### Virtual Environments
-
+-----
 Creating Your First Project & Virtual Environment
 
 ```

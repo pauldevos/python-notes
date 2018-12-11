@@ -8,14 +8,11 @@
 - [Python-Textbook](https://python-textbok.readthedocs.io/en/1.0/index.html)
 - [Tutorials Point](https://www.tutorialspoint.com/python)
 - [Python by Programiz](https://www.programiz.com/python-programming/first-program)
-
-- 2nd Tier (haven't tried these yet)
 - [Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/)
 - [Berkeley Python Bootcamp](https://www.youtube.com/watch?v=P5BHTrluu1M&list=PLKW2Azk23ZtSeBcvJi0JnL7PapedOvwz9&index=1)
 - [Python Deliberate Practice](https://github.com/robert8138/python-deliberate-practice)
 - [Effective Python](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134034287) - [code](https://github.com/bslatkin/effectivepython)
 - [Python Tips & Tutorials - Sebastian Raschka](https://github.com/rasbt/python_reference#-python-tips-and-tutorials)
-
 - [Free Python ebooks](https://pythonbooks.revolunet.com/)
 
 ### Python Projects, OOP, and Building your own Modules

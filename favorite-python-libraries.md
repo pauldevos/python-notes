@@ -64,7 +64,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [py_d3](https://github.com/ResidentMario/py_d3) - D3 block magic for Jupyter notebook
 - [ipyaggrid](https://dgothrek.gitlab.io/ipyaggrid/) ([Features](https://www.ag-grid.com/javascript-grid-features/)) ([Article](https://medium.com/@olivier.borderies/harnessing-the-power-of-ag-grid-in-jupyter-3ae27fb21012)) - Using ag-Grid in Jupyter notebooks
 - [PixieDust](https://github.com/pixiedust/pixiedust) ([YouTube Example](https://www.youtube.com/watch?v=FoOHFlkCaXI)) ([DeBugger article](https://medium.com/ibm-watson-data-lab/the-visual-python-debugger-for-jupyter-notebooks-youve-always-wanted-761713babc62)) - Easy Data Visualizer, Debugger, etc for Notebooks
-
+- [Notebook Kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels)
 
 
 -------------

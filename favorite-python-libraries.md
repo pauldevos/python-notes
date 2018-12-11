@@ -60,7 +60,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [PayPal Notebook Extensions](https://github.com/paypal/PPExtensions)
 - [How to write a Jupyter Notebook Extension](https://towardsdatascience.com/how-to-write-a-jupyter-notebook-extension-a63f9578a38c)
 - [nbtutor](https://github.com/lgpage/nbtutor) - Visualize Python code execution (line-by-line) in Jupyter Notebook cells.
-
+- [py_d3](https://github.com/ResidentMario/py_d3) - D3 block magic for Jupyter notebook
 
 -------------
 

@@ -16,7 +16,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [gmaps](https://jupyter-gmaps.readthedocs.io/en/stable/tutorial.html) - Google Maps For Jupyter Notebooks
 - [vaex](https://vaex.io/) - Lazy Out-of-Core DataFrames for Python. Visualize a billion rows per second on a single computer.
 - [ipywebrtc](https://github.com/maartenbreddels/ipywebrtc) - WebRTC for Jupyter notebook/lab
-- [ipywidgets](https://ipywidgets.readthedocs.io/en/stable/examples/Widget%20List.html) - Interactive Widgets for the Jupyter Notebook
+- [ipywidgets](https://ipywidgets.readthedocs.io/en/stable/examples/Widget%20List.html) ([Notebook Example](https://github.com/Chekos/blog-posts/tree/master/altair%20%2B%20ipywidgets))- Interactive Widgets for the Jupyter Notebook
 - [itk-jupyter-widgets](https://github.com/InsightSoftwareConsortium/itk-jupyter-widgets) - Interactive Jupyter widgets to visualize images in 2D and 3D.
 - [scattertext](https://github.com/JasonKessler/scattertext) - Beautiful visualizations of how language differs among document types.
 - [missingno](https://github.com/ResidentMario/missingno) - Visualize missing data

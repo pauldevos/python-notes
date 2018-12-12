@@ -1,7 +1,7 @@
 # mastering-python
 
------
-### Good Overviews of Python (Online or Paper)
+
+## Good Overviews of Python (Online or Paper)
 
 - [The Hitchhikere's Guide to Python](https://docs.python-guide.org/)
 - [Python-Textbook](https://python-textbok.readthedocs.io/en/1.0/index.html)
@@ -15,8 +15,9 @@
 - [Python - Tips & Tutorials by Sebastian Raschka](https://github.com/rasbt/python_reference#-python-tips-and-tutorials)
 - [Free Python ebooks](https://pythonbooks.revolunet.com/)
 
------
-### Writing Python Modules - Some Essential Python Libraries
+
+
+## Writing Python Modules - Some Essential Python Libraries
 
 - [The Hitchhiker's Guide to Packaging](https://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/index.html)
 - [The Hitchhiker's Guide to Structuring Your Project](https://docs.python-guide.org/writing/structure/)
@@ -24,8 +25,8 @@
 - [attr](https://attrs.readthedocs.io/en/stable/)
   - [attr - The One Python Library Everyone Needs](https://glyph.twistedmatrix.com/2016/08/attrs.html)
 
------
-### OOP
+
+## OOP
 
 - [A Byte of Python](https://python.swaroopch.com/oop.html)
 - [The Python Tutorial - Classes](https://docs.python.org/3/tutorial/classes.html)
@@ -39,7 +40,7 @@
 - [Raymond Hettinger - Python's Class Development Toolkit](https://www.youtube.com/watch?v=HTLu2DFOdTg)
 - [OOP - Trying To Design A Good Class Structure)](https://stackoverflow.com/questions/39922553/oop-trying-to-design-a-good-class-structure)
 
------
+
 ## Design Patterns
 
 - [A Collection of Design Patterns in Python](https://github.com/faif/python-patterns)
@@ -48,7 +49,6 @@
 - [10 Common Software Architectural Patterns in a nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 
 
------
 ## Building RESTful API Wrappers
 - [Designing a RESTful API with Python and Flask - Miguel Grinberg](https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask)
 - [How To Use Web APIs in Python 3](https://www.digitalocean.com/community/tutorials/how-to-use-web-apis-in-python-3)
@@ -61,8 +61,7 @@
 
 
 
------
-### Virtual Environments
+## Virtual Environments
 
 Creating Your First Project & Virtual Environment
 

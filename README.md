@@ -40,12 +40,25 @@
 - [OOP - Trying To Design A Good Class Structure)](https://stackoverflow.com/questions/39922553/oop-trying-to-design-a-good-class-structure)
 
 -----
-### Design Patterns
+## Design Patterns
 
 - [A Collection of Design Patterns in Python](https://github.com/faif/python-patterns)
 - [Toptal - Python Design Patterns](https://www.toptal.com/python/python-design-patterns)
 - [Python Patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 - [10 Common Software Architectural Patterns in a nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
+
+
+-----
+## Building RESTful API Wrappers
+- [Designing a RESTful API with Python and Flask - Miguel Grinberg](https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask)
+- [How To Use Web APIs in Python 3](https://www.digitalocean.com/community/tutorials/how-to-use-web-apis-in-python-3)
+- [Building and Documenting Python REST APIs With Flask and Connexion](https://realpython.com/flask-connexion-rest-api/)
+- [API Integration in Python](https://realpython.com/api-integration-in-python/)
+
+
+
+
+
 
 
 -----

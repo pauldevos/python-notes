@@ -54,7 +54,7 @@
 - [How To Use Web APIs in Python 3](https://www.digitalocean.com/community/tutorials/how-to-use-web-apis-in-python-3)
 - [Building and Documenting Python REST APIs With Flask and Connexion](https://realpython.com/flask-connexion-rest-api/)
 - [API Integration in Python](https://realpython.com/api-integration-in-python/)
-
+- [How to Use Restful Web APIs in Python](https://code.tutsplus.com/articles/how-to-use-restful-web-apis-in-python--cms-29493)
 
 
 

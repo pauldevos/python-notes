@@ -66,6 +66,8 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [PixieDust](https://github.com/pixiedust/pixiedust) ([YouTube Example](https://www.youtube.com/watch?v=FoOHFlkCaXI)) ([DeBugger article](https://medium.com/ibm-watson-data-lab/the-visual-python-debugger-for-jupyter-notebooks-youve-always-wanted-761713babc62)) - Easy Data Visualizer, Debugger, etc for Notebooks
 - [Notebook Kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels)
 - [PixieDust 1.0 is here (blog)](https://medium.com/ibm-watson-data-lab/pixiedust-1-0-is-here-15e0f428df88)
+- [Jupyter Notebook Formatting Extensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions)
+
 
 -------------
 

@@ -35,7 +35,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [Plotly](https://github.com/plotly/plotly.py) - An open-source, interactive graphing library for Python
 - [AnatomyOfMatplotlib (Tutorial)](https://github.com/matplotlib/AnatomyOfMatplotlib) - Anatomy of Matplotlib -- tutorial developed for the SciPy conference
 - [altair](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python
-
+- [Holoviews](https://github.com/ioam/holoviews) - With Holoviews, your data visualizes itself
 -------------
 #### D3
 

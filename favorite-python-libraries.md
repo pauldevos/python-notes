@@ -69,6 +69,8 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [Jupyter Notebook Formatting Extensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions)
 - [Jupyter Notebooks Dashboards Extension](https://jupyter-dashboards-layout.readthedocs.io/en/latest/using.html)
 - [JupyterLab-toc](https://github.com/jupyterlab/jupyterlab-toc) - Table of Contents Extension
+- [Jupyter Extensions - Productivity](https://towardsdatascience.com/jupyter-tools-to-increase-productivity-7b3c6b90be09)
+
 
 -------------
 

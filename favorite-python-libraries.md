@@ -70,6 +70,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [Jupyter Notebooks Dashboards Extension](https://jupyter-dashboards-layout.readthedocs.io/en/latest/using.html)
 - [JupyterLab-toc](https://github.com/jupyterlab/jupyterlab-toc) - Table of Contents Extension
 - [Jupyter Extensions - Productivity](https://towardsdatascience.com/jupyter-tools-to-increase-productivity-7b3c6b90be09) ([Docs](https://github.com/ipython-contrib/jupyter_contrib_nbextensions))
+- [Jupyter Notebook Extensions](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231)
 
 
 -------------

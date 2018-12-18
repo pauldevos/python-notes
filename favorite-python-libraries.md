@@ -67,7 +67,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [Notebook Kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels)
 - [PixieDust 1.0 is here (blog)](https://medium.com/ibm-watson-data-lab/pixiedust-1-0-is-here-15e0f428df88)
 - [Jupyter Notebook Formatting Extensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions)
-
+- [Jupyter Notebooks Dashboards Extension](https://jupyter-dashboards-layout.readthedocs.io/en/latest/using.html)
 
 -------------
 

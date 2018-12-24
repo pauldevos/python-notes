@@ -6,6 +6,7 @@ A list of some favorite libraries in Python as well as specific areas of Python 
 
 #### Data Visualization
 - [Python Graph Gallery](https://python-graph-gallery.com/)
+- [Top 50 matplotlib Visualizations – The Master Plots](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/)
 - [ipyvolume](https://github.com/maartenbreddels/ipyvolume) - 3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL
 - [Dash](https://dash.plot.ly/) - Written on top of Flask, Plotly.js, and React.js, Dash can be used for highly custom user interfaces in Python
 - [Chartify](https://github.com/spotify/chartify/) - Same interface for plots with a goal to make it easy to use Bokeh plots.

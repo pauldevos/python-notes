@@ -111,7 +111,9 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [MLtest](https://github.com/Thenerdstation/mltest) - Testing framework to simplify writing ML unit tests.
 - [scikit-plot](https://github.com/reiinakano/scikit-plot) - An intuitive library to add plotting functionality to scikit-learn objects.
 - [H20ai](https://github.com/h2oai/h2o-tutorials) - Tutorials and training material for the H2O Machine Learning Platform
-- [featuretools](https://github.com/Featuretools/featuretools) - An open source python framework for automated feature engineering 
+- [featuretools](https://github.com/Featuretools/featuretools) - An open source python framework for automated feature engineering
+- [eli5](https://github.com/TeamHG-Memex/eli5) - A library for debugging/inspecting machine learning classifiers and explaining their predictions
+
 
 #### Statistics
 - [pgmpy](https://github.com/pgmpy/pgmpy) - [Notebook tutorials](https://github.com/pgmpy/pgmpy/tree/dev/examples) - Python Library for Probabilistic Graphical Models

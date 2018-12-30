@@ -23,8 +23,8 @@
 - [The Hitchhiker's Guide to Structuring Your Project](https://docs.python-guide.org/writing/structure/)
 - [setup.py](https://github.com/kennethreitz/setup.py)
 - [attr](https://attrs.readthedocs.io/en/stable/)
-  - [attr - The One Python Library Everyone Needs](https://glyph.twistedmatrix.com/2016/08/attrs.html)
-
+- [attr - The One Python Library Everyone Needs](https://glyph.twistedmatrix.com/2016/08/attrs.html)
+- [tox](https://tox.readthedocs.io/en/latest/) - tox aims to automate and standardize testing in Python. It is part of a larger vision of easing the packaging, testing and release process of Python software.
 
 ## OOP
 

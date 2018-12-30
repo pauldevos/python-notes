@@ -13,6 +13,7 @@
 - [Python Deliberate Practice](https://github.com/robert8138/python-deliberate-practice)
 - [Effective Python](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134034287) - [code](https://github.com/bslatkin/effectivepython)
 - [Python - Tips & Tutorials by Sebastian Raschka](https://github.com/rasbt/python_reference#-python-tips-and-tutorials)
+- [Open Sourcing a Python Project the Right Way](https://jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/)
 - [Free Python ebooks](https://pythonbooks.revolunet.com/)
 
 

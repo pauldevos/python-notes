@@ -200,7 +200,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [Vibora](https://github.com/vibora-io/vibora) - Fast, asynchronous and elegant Python web framework.
 
 #### Networking Tools
-- [uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop (faster than NodeJS, close to Go speed)
+- [uvloop](https://github.com/MagicStack/uvloop) [article](https://magic.io/blog/uvloop-blazing-fast-python-networking/) - Ultra fast asyncio event loop (faster than NodeJS, close to Go speed)
 
 
 #### Flask Tools

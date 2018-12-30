@@ -46,6 +46,10 @@
 - [Raymond Hettinger - Python's Class Development Toolkit](https://www.youtube.com/watch?v=HTLu2DFOdTg)
 - [OOP - Trying To Design A Good Class Structure)](https://stackoverflow.com/questions/39922553/oop-trying-to-design-a-good-class-structure)
 
+## Building RESTful APIs
+- [Creating Web APIs with Python and Flask](https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask)
+- [Using Elasticsearch with Python and Flask](https://dev.to/aligoren/using-elasticsearch-with-python-and-flask-2i0e)
+
 
 ## Design Patterns
 

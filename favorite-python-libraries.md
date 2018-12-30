@@ -113,6 +113,8 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [H20ai](https://github.com/h2oai/h2o-tutorials) - Tutorials and training material for the H2O Machine Learning Platform
 - [featuretools](https://github.com/Featuretools/featuretools) - An open source python framework for automated feature engineering
 - [eli5](https://github.com/TeamHG-Memex/eli5) - A library for debugging/inspecting machine learning classifiers and explaining their predictions
+- [Hands-on Machine Learning Model Interpretation](https://towardsdatascience.com/explainable-artificial-intelligence-part-3-hands-on-machine-learning-model-interpretation-e8ebe5afc608)
+
 
 
 #### Statistics

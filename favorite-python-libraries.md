@@ -192,6 +192,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [sanic](https://github.com/huge-success/sanic) - Async Python 3.5+ web server that's written to go fast 
 - [Tornado](https://github.com/tornadoweb/tornado) - Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.
 - [Falcon](https://github.com/falconry/falcon) - Falcon is a bare-metal Python web API framework for building high-performance microservices, app backends, and higher-level frameworks.
+- [Vibora](https://github.com/vibora-io/vibora) - Fast, asynchronous and elegant Python web framework.
 
 #### Flask Tools
 - [Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. 

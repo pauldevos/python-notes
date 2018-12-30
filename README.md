@@ -26,6 +26,7 @@
 - [attr - The One Python Library Everyone Needs](https://glyph.twistedmatrix.com/2016/08/attrs.html)
 - [tox](https://tox.readthedocs.io/en/latest/) - tox aims to automate and standardize testing in Python. It is part of a larger vision of easing the packaging, testing and release process of Python software.
 - [Python Modules: Creating, Importing, and Sharing (intro)](https://stackabuse.com/python-modules-creating-importing-and-sharing/)
+- [How To Package Your Python Code](https://python-packaging.readthedocs.io/en/latest/)
 
 ## OOP
 

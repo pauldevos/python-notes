@@ -199,6 +199,10 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [Falcon](https://github.com/falconry/falcon) - Falcon is a bare-metal Python web API framework for building high-performance microservices, app backends, and higher-level frameworks.
 - [Vibora](https://github.com/vibora-io/vibora) - Fast, asynchronous and elegant Python web framework.
 
+#### Networking Tools
+- [uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop (faster than NodeJS, close to Go speed)
+
+
 #### Flask Tools
 - [Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. 
 - [Awesome-Flask](https://github.com/humiaozuzu/awesome-flask) - A curated list of awesome Flask resources and plugins

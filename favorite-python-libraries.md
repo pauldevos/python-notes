@@ -104,6 +104,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [Feature Engineering Text Data - Advanced Deep Learning Strategies](https://github.com/dipanjanS/practical-machine-learning-with-python/blob/master/bonus%20content/feature%20engineering%20text%20data/Feature%20Engineering%20Text%20Data%20-%20Advanced%20Deep%20Learning%20Strategies.ipynb)
 - [NLP Strategy I - Processing and Understanding Text](https://github.com/dipanjanS/practical-machine-learning-with-python/blob/master/bonus%20content/nlp%20proven%20approach/NLP%20Strategy%20I%20-%20Processing%20and%20Understanding%20Text.ipynb)
 - [Practical Text Classification With Python and Keras](https://realpython.com/python-keras-text-classification/)
+- [Regex tutorial — A quick cheatsheet by examples](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)
 
 
 -------------

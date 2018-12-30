@@ -97,7 +97,11 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [pampy](https://github.com/santinic/pampy)
 - [textblob](https://github.com/sloria/textblob) - Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.
 - [nlp-text-mining-working-examples](https://github.com/kavgan/nlp-text-mining-working-examples)
-- [Pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
+- [Pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization
+- [Feature Engineering Text Data - Traditional Strategies](https://github.com/dipanjanS/practical-machine-learning-with-python/blob/master/bonus%20content/feature%20engineering%20text%20data/Feature%20Engineering%20Text%20Data%20-%20Traditional%20Strategies.ipynb)
+- [Feature Engineering Text Data - Advanced Deep Learning Strategies](https://github.com/dipanjanS/practical-machine-learning-with-python/blob/master/bonus%20content/feature%20engineering%20text%20data/Feature%20Engineering%20Text%20Data%20-%20Advanced%20Deep%20Learning%20Strategies.ipynb)
+- [NLP Strategy I - Processing and Understanding Text](https://github.com/dipanjanS/practical-machine-learning-with-python/blob/master/bonus%20content/nlp%20proven%20approach/NLP%20Strategy%20I%20-%20Processing%20and%20Understanding%20Text.ipynb)
+
 
 -------------
 

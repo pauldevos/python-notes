@@ -40,6 +40,8 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [Holoviews](https://github.com/ioam/holoviews) - With Holoviews, your data visualizes itself
 - [Graph-Tool](https://graph-tool.skewed.de/) - Graph-tool is an efficient Python module for manipulation and statistical analysis of graphs (a.k.a. networks)
 - [The Art of Effective Visualization of Multi-dimensional Data](https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57)
+- [Policy Viz - DataViz Books](https://policyviz.com/better-presentations/data-viz-resources/data-viz-books/)
+
 
 
 

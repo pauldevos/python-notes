@@ -128,7 +128,8 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
 - [Learning Math for Machine Learning](https://blog.ycombinator.com/learning-math-for-machine-learning)
 - [Google's Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml/)
-
+- [100 Days of ML Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+- [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning/blob/master/README.md)
 
 #### Data Science Workflows
 - [Data Science Workflows using Docker Containers(YouTube)](https://www.youtube.com/watch?v=oO8n3y23b6M)

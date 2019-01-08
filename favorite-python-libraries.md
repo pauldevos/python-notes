@@ -192,6 +192,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [sockets]()
 - [pykafka](https://github.com/Parsely/pykafka) - Apache Kafka client for Python; high-level & low-level consumer/producer, with great performance. 
 - [awesome-kafka](https://github.com/infoslack/awesome-kafka) - A list about Apache Kafka
+- [How to Stream Text Data from Twitch with Sockets in Python](https://learndatasci.com/tutorials/how-stream-text-data-twitch-sockets-python/)
 
 #### Linear Algebra
 - numpy

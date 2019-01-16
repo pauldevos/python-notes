@@ -38,6 +38,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [Matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
 - [Plotly](https://github.com/plotly/plotly.py) - An open-source, interactive graphing library for Python
 - [AnatomyOfMatplotlib (Tutorial)](https://github.com/matplotlib/AnatomyOfMatplotlib) - Anatomy of Matplotlib -- tutorial developed for the SciPy conference
+- [pyLDAvis](https://github.com/bmabey/pyLDAvis) - Python library for interactive topic model visualization. Port of the R LDAvis package
 - [altair](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python
 - [Holoviews](https://github.com/ioam/holoviews) - With Holoviews, your data visualizes itself
 - [DataShader](http://datashader.org/) - uses Dask and Numba to visualize huge data sets

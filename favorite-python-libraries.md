@@ -40,6 +40,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [AnatomyOfMatplotlib (Tutorial)](https://github.com/matplotlib/AnatomyOfMatplotlib) - Anatomy of Matplotlib -- tutorial developed for the SciPy conference
 - [altair](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python
 - [Holoviews](https://github.com/ioam/holoviews) - With Holoviews, your data visualizes itself
+- [DataShader](http://datashader.org/) - uses Dask and Numba to visualize huge data sets
 - [Graph-Tool](https://graph-tool.skewed.de/) - Graph-tool is an efficient Python module for manipulation and statistical analysis of graphs (a.k.a. networks)
 - [The Art of Effective Visualization of Multi-dimensional Data](https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57)
 - [Policy Viz - DataViz Books](https://policyviz.com/better-presentations/data-viz-resources/data-viz-books/)

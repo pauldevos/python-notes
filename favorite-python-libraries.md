@@ -44,7 +44,8 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [The Art of Effective Visualization of Multi-dimensional Data](https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57)
 - [Policy Viz - DataViz Books](https://policyviz.com/better-presentations/data-viz-resources/data-viz-books/)
 
-
+#### Data
+- [Our World in Data](https://ourworldindata.org/) - data visualizations of many things around the world
 
 
 -------------

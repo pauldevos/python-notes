@@ -1,12 +1,15 @@
 # mastering-python
 
 
-## Good Overviews of Python (Online or Paper)
+## High Level Overviews of Python
 
 - [The Hitchhikere's Guide to Python](https://docs.python-guide.org/)
 - [Python-Textbook](https://python-textbok.readthedocs.io/en/1.0/index.html)
 - [Tutorials Point](https://www.tutorialspoint.com/python)
 - [Python by Programiz](https://www.programiz.com/python-programming/first-program)
+
+## Intermediate Level Overviews of Python
+
 - [Python Tips Docs](http://book.pythontips.com/en/latest/)
 - [Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/)
 - [Berkeley Python Bootcamp](https://www.youtube.com/watch?v=P5BHTrluu1M&list=PLKW2Azk23ZtSeBcvJi0JnL7PapedOvwz9&index=1)

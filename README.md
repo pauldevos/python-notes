@@ -1,24 +1,11 @@
 # mastering-python
 
-
-## High Level Overviews of Python
-
-- [The Hitchhikere's Guide to Python](https://docs.python-guide.org/)
-- [Python-Textbook](https://python-textbok.readthedocs.io/en/1.0/index.html)
-- [Tutorials Point](https://www.tutorialspoint.com/python)
-- [Python by Programiz](https://www.programiz.com/python-programming/first-program)
-
 ## Intermediate Level Overviews of Python
 
 - [Python Tips Docs](http://book.pythontips.com/en/latest/)
 - [Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/)
 - [Berkeley Python Bootcamp](https://www.youtube.com/watch?v=P5BHTrluu1M&list=PLKW2Azk23ZtSeBcvJi0JnL7PapedOvwz9&index=1)
-- [Python Deliberate Practice](https://github.com/robert8138/python-deliberate-practice)
 - [Effective Python](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134034287) - [code](https://github.com/bslatkin/effectivepython)
-- [Python - Tips & Tutorials by Sebastian Raschka](https://github.com/rasbt/python_reference#-python-tips-and-tutorials)
-- [Open Sourcing a Python Project the Right Way](https://jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/)
-- [Free Python ebooks](https://pythonbooks.revolunet.com/)
-
 
 
 ## Writing Python Modules - Some Essential Python Libraries
@@ -26,10 +13,6 @@
 - [The Hitchhiker's Guide to Packaging](https://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/index.html)
 - [The Hitchhiker's Guide to Structuring Your Project](https://docs.python-guide.org/writing/structure/)
 - [setup.py](https://github.com/kennethreitz/setup.py)
-- [attr](https://attrs.readthedocs.io/en/stable/)
-- [attr - The One Python Library Everyone Needs](https://glyph.twistedmatrix.com/2016/08/attrs.html)
-- [tox](https://tox.readthedocs.io/en/latest/) - tox aims to automate and standardize testing in Python. It is part of a larger vision of easing the packaging, testing and release process of Python software.
-- [Python Modules: Creating, Importing, and Sharing (intro)](https://stackabuse.com/python-modules-creating-importing-and-sharing/)
 - [How To Package Your Python Code](https://python-packaging.readthedocs.io/en/latest/)
 - [Python Application Layouts: A Reference](https://realpython.com/python-application-layouts/)
 
@@ -68,10 +51,6 @@
 - [Building and Documenting Python REST APIs With Flask and Connexion](https://realpython.com/flask-connexion-rest-api/)
 - [API Integration in Python](https://realpython.com/api-integration-in-python/)
 - [How to Use Restful Web APIs in Python](https://code.tutsplus.com/articles/how-to-use-restful-web-apis-in-python--cms-29493)
-
-
-
-
 
 
 ## Virtual Environments

@@ -52,6 +52,8 @@
 - [API Integration in Python](https://realpython.com/api-integration-in-python/)
 - [How to Use Restful Web APIs in Python](https://code.tutsplus.com/articles/how-to-use-restful-web-apis-in-python--cms-29493)
 
+## Algorithms in Python
+- [The Algorithms](https://github.com/TheAlgorithms/Python)
 
 ## Virtual Environments
 

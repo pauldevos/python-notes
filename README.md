@@ -6,6 +6,10 @@
 - [Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/)
 - [Berkeley Python Bootcamp](https://www.youtube.com/watch?v=P5BHTrluu1M&list=PLKW2Azk23ZtSeBcvJi0JnL7PapedOvwz9&index=1)
 - [Effective Python](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134034287) - [code](https://github.com/bslatkin/effectivepython)
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+- [HackerRank](https://www.hackerrank.com/)
+- [Python 3 official docs](https://docs.python.org/3/)
+- [Data-Flair-Python-Training](https://data-flair.training/blogs/python-tutorials-home/)
 
 
 ## Writing Python Modules - Some Essential Python Libraries

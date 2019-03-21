@@ -10,6 +10,7 @@
 - [HackerRank](https://www.hackerrank.com/)
 - [Python 3 official docs](https://docs.python.org/3/)
 - [Data-Flair-Python-Training](https://data-flair.training/blogs/python-tutorials-home/)
+- [List of Python APIs with Examples](https://www.programcreek.com/python/index/module/list)
 
 
 ## Writing Python Modules - Some Essential Python Libraries

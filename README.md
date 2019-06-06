@@ -24,7 +24,7 @@
 
 
 ## OOP
-
+- [Python vs Java Classes](https://realpython.com/oop-in-python-vs-java/)
 - [A Byte of Python](https://python.swaroopch.com/oop.html)
 - [The Python Tutorial - Classes](https://docs.python.org/3/tutorial/classes.html)
 - [Object-Oriented Programming (OOP) in Python 3](https://realpython.com/python3-object-oriented-programming/)

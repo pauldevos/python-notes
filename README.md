@@ -21,8 +21,6 @@
 - [How To Package Your Python Code](https://python-packaging.readthedocs.io/en/latest/)
 - [Python Application Layouts: A Reference](https://realpython.com/python-application-layouts/)
 
-
-
 ## OOP
 - [Python vs Java Classes](https://realpython.com/oop-in-python-vs-java/)
 - [A Byte of Python](https://python.swaroopch.com/oop.html)

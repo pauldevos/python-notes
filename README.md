@@ -22,7 +22,6 @@
 - [Python Application Layouts: A Reference](https://realpython.com/python-application-layouts/)
 
 ## OOP
-- [Mastering-Object-Oriented-Python-Second-Edition](https://github.com/PacktPublishing/Mastering-Object-Oriented-Python-Second-Edition)
 - [Python vs Java Classes](https://realpython.com/oop-in-python-vs-java/)
 - [A Byte of Python](https://python.swaroopch.com/oop.html)
 - [The Python Tutorial - Classes](https://docs.python.org/3/tutorial/classes.html)
@@ -97,5 +96,3 @@ pip freeze > requirements.txt
 # Check requirements.txt into source control:
 git add requirements.txt
 ```
-
-

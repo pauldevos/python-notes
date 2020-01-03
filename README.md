@@ -58,6 +58,15 @@
 ## Algorithms in Python
 - [The Algorithms](https://github.com/TheAlgorithms/Python)
 
+
+## Testing in Python
+- [Jes Ford - Getting Started Testing in Data Science - PyCon 2019](https://www.youtube.com/watch?v=0ysyWk-ox-8)
+- [Eric J Ma Best Testing Practices for Data Science PyCon 2017](https://www.youtube.com/watch?v=yACtdj1_IxE) - [Github](https://github.com/ericmjl/data-testing-tutorial)
+
+
+
+
+
 ## Virtual Environments
 
 Creating Your First Project & Virtual Environment

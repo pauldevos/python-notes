@@ -13,3 +13,17 @@
 - https://flask-table.readthedocs.io/en/stable/
 - https://stackoverflow.com/questions/13315883/how-to-structure-data-to-easily-build-html-tables-in-flask
 
+### Dash Forums Help
+- [Dash callbacks are not async - handling multiple requests and callbacks in parallel](https://community.plot.ly/t/dash-callbacks-are-not-async-handling-multiple-requests-and-callbacks-in-parallel/5848)
+- [Dash Performance Tips](https://dash.plot.ly/performance)
+- [Successfully Running Dash with Quart (asyncio web framework)](https://community.plot.ly/t/successfully-running-dash-with-quart-asyncio-web-framework/7853/12)
+- [Dash Asynchrnous Recipe](https://github.com/plotly/dash-recipes/blob/master/dash-asynchronous.py)
+
+
+### Async Frameworks
+- [FastAPI](https://github.com/tiangolo/fastapi)
+- [Quart](https://gitlab.com/pgjones/quart)
+
+
+
+

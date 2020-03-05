@@ -1,3 +1,7 @@
+### Connecting to Databases
+- https://realpython.com/python-sql-libraries/
+
+
 ## Various Resources for Administration of Databases
 
 1. Postgres

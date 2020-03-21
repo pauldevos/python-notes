@@ -157,4 +157,6 @@ _A list of my commonly used Git commands_
 - https://stackoverflow.com/questions/1628088/reset-local-repository-branch-to-be-just-like-remote-repository-head?noredirect=1&lq=1
 - https://stackoverflow.com/questions/32056324/there-is-no-tracking-information-for-the-current-branch
 
+### Merging to Github
+- [Creating a Simple Github Pull Request](https://www.youtube.com/watch?v=rgbCcBNZcdQ)
 

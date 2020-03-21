@@ -41,13 +41,6 @@ You can configure `nginx` to handle all the test requests across all the `gunico
 
 
 
-
-
-
-
-
-
-
 ### Popular Methods of Deploying Machine Learning Models to Production
 
 1. Deploy your machine learning model as a REST API using Docker and AWS services like ECR, Sagemaker and Lambda.

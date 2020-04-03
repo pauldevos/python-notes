@@ -1,5 +1,26 @@
 # Python Resources
 
+1. Installing and Managing Python Versions
+    - [pyenv](https://github.com/pyenv/pyenv) - ([tutorial](https://akrabat.com/creating-virtual-environments-with-pyenv/))
+2. Managing virtual environments
+    - [pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv)
+    - [venv](https://docs.python.org/3/library/venv.html) - ([tutorial](https://www.youtube.com/watch?v=Kg1Yvry_Ydk))
+    - conda
+3. Code Editor
+    - [Visual Studio Code]
+        - [Visual Studio Code (Mac) - Setting up a Python Development Environment and Complete Overview](https://www.youtube.com/watch?v=06I63_p-2A4)
+    - Jupyter Notebooks
+4. Git
+    - [Git Tutorial for Beginners: Command-Line Fundamentals](https://www.youtube.com/watch?v=HVsySz-h9r4)
+    - [Git Tutorial: Fixing Common Mistakes and Undoing Bad Commits](https://www.youtube.com/watch?v=FdZecVxzJbk)
+    - [YouTube: Git Playlist Corey Schafer](https://www.youtube.com/watch?v=HVsySz-h9r4&list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx)
+5. Testing
+    - pytest
+    - coverage
+    - pytest-cov
+
+
+
 ## Intermediate Level Overviews of Python
 
 - [Python Tips Docs](http://book.pythontips.com/en/latest/)

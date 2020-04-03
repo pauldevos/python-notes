@@ -1,0 +1,5 @@
+{
+  "python.pythonPath": "/Users/datawonk/.pyenv/versions/3.7.4/bin/python3.7",
+  "python.linting.enabled": true,
+  "python.formatting.provider": "black"
+}

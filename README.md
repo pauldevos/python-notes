@@ -14,8 +14,11 @@
      - [YouTube: Traversy Media - Setting Up VSCode For Python Programming](https://www.youtube.com/watch?v=W--_EOzdTHk)
      - [Miguel Grinberg Visual Studio Code Setup](https://www.youtube.com/watch?v=UXqiVe6h3lA)
    - VS Code Pluin Recommendations for better development experience.
+   - EditorConfig
 
-     - [YouTube: Traversy Media - 15 VS Code Extensions For Front-End Developers in 2019](https://www.youtube.com/watch?v=LdF2RcelRg0)
+     - Generate .editorconfig in a directory in your project.
+
+   - [YouTube: Traversy Media - 15 VS Code Extensions For Front-End Developers in 2019](https://www.youtube.com/watch?v=LdF2RcelRg0)
 
    - For Data Science projects, I also recommend Jupyter Notebooks as it's the defacto quick prototyping "IDE" for Data Science, Data Viz, and other similar projects that need non-technical stakeholder input. There definitely are ways to do "development" in Notebooks right as well. I'll try to share some resources on that. You will often use Notebooks in conjuction with a text editor like VS Code. There is JupyterLab which does attempt to combine notebooks and a text editor into one "environment" but as of March 2020 I haven't really been impressed with it to abandon using VS Code or Atom or Sublime for what JupyterLab can offer. To me the essential tool is a great text editor slash IDE and VS Code is that.
 

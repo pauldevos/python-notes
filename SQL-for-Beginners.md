@@ -4,6 +4,13 @@
 - [W3 Schools SQL Tutorial](https://www.w3schools.com/sql/default.asp)
 - [Kahn Academy - Intro to SQL](https://www.khanacademy.org/computing/computer-programming/sql)
 
+#### Online Interactive SQL
+- [](https://sqliteonline.com/)
+
+#### SQL IDEs
+- [SQLiteStudio](https://sqlitestudio.pl/index.rvt)
+
+
 ### Python for Beginners Courses
 
 - [Udemy - Complete Python Bootcamp by Jose Portilla](https://www.udemy.com/course/complete-python-bootcamp/)

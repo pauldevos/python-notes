@@ -1,7 +1,7 @@
 # Python Resources
 
 1. Installing and Managing Python Versions
-   - [pyenv](https://github.com/pyenv/pyenv) - ([tutorial](https://akrabat.com/creating-virtual-environments-with-pyenv/))
+   - [pyenv](https://github.com/pyenv/pyenv) - ([tutorial](https://akrabat.com/creating-virtual-environments-with-pyenv/)), ([Deep dive into how pyenv actually works by leveraging the shim design pattern](https://mungingdata.com/python/how-pyenv-works-shims/))
 2. Managing virtual environments
    - [pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv)
    - [venv](https://docs.python.org/3/library/venv.html) - ([tutorial](https://www.youtube.com/watch?v=Kg1Yvry_Ydk))

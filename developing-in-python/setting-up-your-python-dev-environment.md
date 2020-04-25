@@ -109,7 +109,7 @@ Some other environment config variables examples should be stored accordingly in
 
 - `.bashrc`
 - AWS - `.aws/credentials`
-- SSJ - `.ssh` - here you will have your `id_rsa` secret and public ssh key files
+- SSH - `.ssh` - here you will have your `id_rsa` secret and public ssh key files
 
 So what's the difference between your `.bash_profile` and your `.bashrc` file? Well StackExchange has a great answer for that [here](https://apple.stackexchange.com/questions/51036/what-is-the-difference-between-bash-profile-and-bashrc), but simply put once you open up a terminal your `.bash_profile` is loaded immediately and you have access to all of those environment variables immediately. On a Mac and (I think) most Linux distros (I haven't tried them all) you start with some CLI tool, e.g. bash. So that is your "login" shell. When you type another interactive shell at that command line, e.g. `bash`, `python`, `python3`, or `ksh` you will now load the `.bashrc` file. This might be something you want say when you use Python at the CLI.
 

@@ -3,8 +3,6 @@
 > A curated list of awesome resources for practicing data science using Python, including not only libraries, but also links to tutorials, code snippets, blog posts and talks.  
 
 #### Core
-[pandas](https://pandas.pydata.org/) - Data structures built on top of [numpy](https://www.numpy.org/).  
-[scikit-learn](https://scikit-learn.org/stable/) - Core ML library.  
 [matplotlib](https://matplotlib.org/) - Plotting library.  
 [seaborn](https://seaborn.pydata.org/) - Data visualization library based on matplotlib.  
 [pandas_summary](https://github.com/mouradmourafiq/pandas-summary) - Basic statistics using `DataFrameSummary(df).summary()`.  
@@ -13,37 +11,42 @@
 [janitor](https://pyjanitor.readthedocs.io/) - Clean messy column names.  
 [missingno](https://github.com/ResidentMario/missingno) - Missing data visualization.  
 
-#### Pandas and Jupyter
-General tricks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)  
-Python debugger (pdb) - [blog post](https://www.blog.pythonlibrary.org/2018/10/17/jupyter-notebook-debugging/), [video](https://www.youtube.com/watch?v=Z0ssNAbe81M&t=1h44m15s), [cheatsheet](https://nblock.org/2011/11/15/pdb-cheatsheet/)  
-[cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) - Project template for data science projects.  
+#### Notebook Tools
 [nteract](https://nteract.io/) - Open Jupyter Notebooks with doubleclick.  
-[modin](https://github.com/modin-project/modin) - Parallelization library for faster pandas `DataFrame`.  
-[swifter](https://github.com/jmcarpenter2/swifter) - Apply any function to a pandas dataframe faster.  
-[xarray](https://github.com/pydata/xarray/) - Extends pandas to n-dimensional arrays.  
 [blackcellmagic](https://github.com/csurfer/blackcellmagic) - Code formatting for jupyter notebooks.  
 [pivottablejs](https://github.com/nicolaskruchten/jupyter_pivottablejs) - Drag n drop Pivot Tables and Charts for jupyter notebooks.  
 [qgrid](https://github.com/quantopian/qgrid) - Pandas `DataFrame` sorting.  
 [nbdime](https://github.com/jupyter/nbdime) - Diff two notebook files, Alternative GitHub App: [ReviewNB](https://www.reviewnb.com/).  
+General tricks: [link](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)  
 
-#### Extraction
-[textract](https://github.com/deanmalmgren/textract) - Extract text from any document.  
-[camelot](https://github.com/socialcopsdev/camelot) - Extract text from PDF.  
+#### Data Processing Libraries
 
-#### Big Data
-[spark](https://docs.databricks.com/spark/latest/dataframes-datasets/introduction-to-dataframes-python.html#work-with-dataframes) - `DataFrame` for big data, [cheatsheet](https://gist.github.com/crawles/b47e23da8218af0b9bd9d47f5242d189), [tutorial](https://github.com/ericxiao251/spark-syntax).  
-[sparkit-learn](https://github.com/lensacom/sparkit-learn) - PySpark + Scikit-learn.  
-[dask](https://github.com/dask/dask), [dask-ml](http://ml.dask.org/) - Pandas `DataFrame` for big data and machine learning library, [resources](https://matthewrocklin.com/blog//work/2018/07/17/dask-dev), [talk1](https://www.youtube.com/watch?v=ccfsbuqsjgI), [talk2](https://www.youtube.com/watch?v=RA_2qdipVng), [notebooks](https://github.com/dask/dask-ec2/tree/master/notebooks), [videos](https://www.youtube.com/user/mdrocklin).  
-[turicreate](https://github.com/apple/turicreate) - Helpful `SFrame` class for out-of-memory dataframes.  
-[h2o](https://github.com/h2oai/h2o-3) - Helpful `H2OFrame` class for out-of-memory dataframes.  
-[datatable](https://github.com/h2oai/datatable) - Data Table for big data support.  
-[cuDF](https://github.com/rapidsai/cudf) - GPU DataFrame Library.  
-[ray](https://github.com/ray-project/ray/) - Flexible, high-performance distributed execution framework.  
-[mars](https://github.com/mars-project/mars) - Tensor-based unified framework for large-scale data computation.  
-[bottleneck](https://github.com/kwgoodman/bottleneck) - Fast NumPy array functions written in C.   
-[bolz](https://github.com/Blosc/bcolz) - A columnar data container that can be compressed.  
-[cupy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA.  
-[vaex](https://github.com/vaexio/vaex) - Out-of-Core DataFrames.  
+- [pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+- [dask](https://github.com/dask/dask), [resources](https://matthewrocklin.com/blog//work/2018/07/17/dask-dev), [talk1](https://www.youtube.com/watch?v=ccfsbuqsjgI), [talk2](https://www.youtube.com/watch?v=RA_2qdipVng), [notebooks](https://github.com/dask/dask-ec2/tree/master/notebooks), [videos](https://www.youtube.com/user/mdrocklin).  
+- [swifter](https://github.com/jmcarpenter2/swifter) - A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner
+- [ray](https://github.com/ray-project/ray/) - Flexible, high-performance distributed execution framework.
+- [modin](https://github.com/modin-project/modin) - Modin: Speed up your Pandas workflows by changing a single line of code
+- [vaex](https://github.com/vaexio/vaex) - Out-of-Core DataFrames.
+- [pyspark](https://github.com/apache/spark/tree/master/python/pyspark) - [spark](https://docs.databricks.com/spark/latest/dataframes-datasets/introduction-to-dataframes-python.html#work-with-dataframes) - `DataFrame` for big data, [cheatsheet](https://gist.github.com/crawles/b47e23da8218af0b9bd9d47f5242d189), [tutorial](https://github.com/ericxiao251/spark-syntax).
+- [koalas](https://github.com/databricks/koalas) - Koalas: pandas API on Apache Spark
+- [h2o](https://github.com/h2oai/h2o-3) - Helpful `H2OFrame` class for out-of-memory dataframes.  
+- [datatable](https://github.com/h2oai/datatable) - Data Table for big data support.  
+- [cuDF](https://github.com/rapidsai/cudf) - RAIPDS AI - cuDF - GPU DataFrame Library
+- [xarray](https://github.com/pydata/xarray/) - Extends pandas to n-dimensional arrays.    
+- [mars](https://github.com/mars-project/mars) - Tensor-based unified framework for large-scale data computation which scales Numpy, Pandas and Scikit-learn.
+- [bottleneck](https://github.com/kwgoodman/bottleneck) - Fast NumPy array functions written in C.   
+- [bolz](https://github.com/Blosc/bcolz) - A columnar data container that can be compressed.  
+- [cupy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA.  
+
+### Machine Learning Frameworks
+- [scikit-learn](https://github.com/scikit-learn/scikit-learn) - machine learning in Python
+- [pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- [tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
+- [keras](https://github.com/keras-team/keras) - Deep Learning for humans
+- [dask-ml](http://ml.dask.org/) - Pandas `DataFrame` for big data and machine learning library
+- [sparkit-learn](https://github.com/lensacom/sparkit-learn) - PySpark + Scikit-learn.
+- [turicreate](https://github.com/apple/turicreate) - Turi Create simplifies the development of custom machine learning models.
+
 
 ##### Command line tools
 [ni](https://github.com/spencertipping/ni) - Command line tool for big data.  
@@ -258,6 +261,10 @@ Cell Segmentation - [Talk](https://www.youtube.com/watch?v=dVFZpodqJiI), Blog Po
 [thundergbm](https://github.com/Xtra-Computing/thundergbm) - GBDTs and Random Forest.  
 [thundersvm](https://github.com/Xtra-Computing/thundersvm) - Support Vector Machines.  
 
+#### Extraction
+[textract](https://github.com/deanmalmgren/textract) - Extract text from any document.  
+[camelot](https://github.com/socialcopsdev/camelot) - Extract text from PDF.  
+
 #### Regression
 Understanding SVM Regression: [slides](https://cs.adelaide.edu.au/~chhshen/teaching/ML_SVR.pdf), [forum](https://www.quora.com/How-does-support-vector-regression-work), [paper](http://alex.smola.org/papers/2003/SmoSch03b.pdf)  
 
@@ -464,6 +471,9 @@ AlphaZero methodology - [1](https://github.com/AppliedDataSciencePartners/DeepRe
 [attrs](https://github.com/python-attrs/attrs) - Python classes without boilerplate.  
 [dateparser](https://dateparser.readthedocs.io/en/latest/) - A better date parser.  
 [jellyfish](https://github.com/jamesturk/jellyfish) - Approximate string matching.   
+
+- [pdb] - Python debugger - [blog post](https://www.blog.pythonlibrary.org/2018/10/17/jupyter-notebook-debugging/), [video](https://www.youtube.com/watch?v=Z0ssNAbe81M&t=1h44m15s), [cheatsheet](https://nblock.org/2011/11/15/pdb-cheatsheet/)  
+[cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) - Project template for data science projects.  
 
 #### Blogs
 [PocketCluster](https://blog.pocketcluster.io/) - Blog.  

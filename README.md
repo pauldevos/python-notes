@@ -502,6 +502,9 @@ Popular Python ML APIs
 - [aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python https://docs.aiohttp.org
 - [fastapi](https://github.com/tiangolo/fastapi), [Docs](https://fastapi.tiangolo.com/) - FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
 
+#### Twitter APIs
+- [twint](https://github.com/twintproject/twint)
+
 #### Networking Tools
 
 - [uvloop](https://github.com/MagicStack/uvloop) ([article](https://magic.io/blog/uvloop-blazing-fast-python-networking/)) - Ultra fast asyncio event loop (faster than NodeJS, close to Go speed)

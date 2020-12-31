@@ -37,7 +37,7 @@
      - [YouTube: Python Testing 101 with pytest](https://www.youtube.com/watch?v=etosV2IWBF0)
      - [YouTube: Python Testing 201 with pytest](https://www.youtube.com/watch?v=fv259R38gqc)
 
-6) Deploying Apps
+6. Deploying Apps
 
    - Synchronous Framework: Flask
    - Asynchronous Framework: FastAPI
@@ -45,7 +45,7 @@
    - AWS Serverless: Zappa
    - AWS web framework: Chalice
 
-7) Utilities and Automation Scripts
+7. Utilities and Automation Scripts
 
    - Automation Scripts
    - Subprocess
@@ -57,7 +57,7 @@
      - sys
      - devtools
 
-8) Optional:
+8. Optional:
    - Type Hints
      - [Typer](https://github.com/tiangolo/typer)
    - CLI Libraries
@@ -663,5 +663,3 @@ Popular Python ML APIs
 - [Airbnb - Knowledge Repo](https://github.com/airbnb/knowledge-repo) - tag and share analysis
 - [Advanced Jupyter Notebooks: A Tutorial](https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/)
 - [imgkit](https://github.com/jarrekk/imgkit) - Wkhtmltoimage python wrapper to convert html to image
-
-

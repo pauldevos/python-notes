@@ -23,6 +23,7 @@ ssh-keygen -t rsa -C "email@work_mail.com" -f "id_rsa_work_user1"
 
 # -b is for bytes of your encryption key, e.g. 1024, 2048, 4096 like so...
 $ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+
 ```
 
 
@@ -49,6 +50,17 @@ ssh-add ~/.ssh/id_rsa_work
 ssh-add ~/.ssh/id_rsa_aws
 ```
 
+
+https://docs.github.com/en/github/getting-started-with-github/getting-started-with-git/caching-your-github-credentials-in-git
+
+
+```bash
+
+# cach your credentials after entering them
+git config --global credential.helper osxkeychain
+```
+
+https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token
 
 ### for EC2s - you will use an identity
 

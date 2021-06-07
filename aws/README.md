@@ -8,6 +8,9 @@
 ## CloudFormation Notes
 - [link](link)
 
+### VPC Courses
+- [AWS VPC Masterclass Webinar (2018) - Part 1](https://www.youtube.com/watch?v=LX5lHYGFcnA&ab_channel=EICITLearning)
+
 
 ### VPC Best Practices
 https://cloudacademy.com/blog/top-13-amazon-virtual-private-cloud-best-practices/

@@ -37,7 +37,7 @@
      - [YouTube: Python Testing 101 with pytest](https://www.youtube.com/watch?v=etosV2IWBF0)
      - [YouTube: Python Testing 201 with pytest](https://www.youtube.com/watch?v=fv259R38gqc)
 
-6) Deploying Apps
+6. Deploying Apps
 
    - Synchronous Framework: Flask
    - Asynchronous Framework: FastAPI
@@ -45,7 +45,7 @@
    - AWS Serverless: Zappa
    - AWS web framework: Chalice
 
-7) Utilities and Automation Scripts
+7. Utilities and Automation Scripts
 
    - Automation Scripts
    - Subprocess
@@ -57,7 +57,7 @@
      - sys
      - devtools
 
-8) Optional:
+8. Optional:
    - Type Hints
      - [Typer](https://github.com/tiangolo/typer)
    - CLI Libraries
@@ -501,6 +501,9 @@ Popular Python ML APIs
 - [japronto](https://github.com/squeaky-pl/japronto) - Screaming-fast Python 3.5+ HTTP toolkit integrated with pipelining HTTP server based on uvloop and picohttpparser.
 - [aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python https://docs.aiohttp.org
 - [fastapi](https://github.com/tiangolo/fastapi), [Docs](https://fastapi.tiangolo.com/) - FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
+
+#### Twitter APIs
+- [twint](https://github.com/twintproject/twint)
 
 #### Networking Tools
 

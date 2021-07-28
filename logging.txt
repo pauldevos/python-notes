@@ -1,0 +1,8 @@
+07/28/2021 09:37:19 - root - WARNING - this is a warning message
+07/28/2021 09:37:19 - root - ERROR - this is an error message
+07/28/2021 09:37:19 - root - CRITICAL - this is a critical message
+07/28/2021 09:37:55 - root - DEBUG - This is a debug message
+07/28/2021 09:37:55 - root - INFO - This is an info message
+07/28/2021 09:37:55 - root - WARNING - this is a warning message
+07/28/2021 09:37:55 - root - ERROR - this is an error message
+07/28/2021 09:37:55 - root - CRITICAL - this is a critical message

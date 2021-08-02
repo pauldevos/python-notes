@@ -1,9 +1,15 @@
 # Logging
 
+### What you need to know about Logging (or Loggers)
+
 - Loggers expose the interface that application code directly uses.
 - Handlers send the log records (created by loggers) to the appropriate destination.
 - Filters provide a finer grained facility for determining which log records to output.
 - Formatters specify the layout of log records in the final output.
+
+### JSON format of Logs
+
+- https://github.com/madzak/python-json-logger
 
 ### Where to put Logging
 
@@ -15,6 +21,8 @@ logging.conf or logging.ini
 
 ```python
 import logging.config
+
+logging.getLogger(__name__) # this gives the module name of the module to the logger
 
 logging.config.fileConfig('logging.config')
 

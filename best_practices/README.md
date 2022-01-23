@@ -31,3 +31,17 @@ whether you need `self.variable_name` or not
 Testing
 Pure functions vs instance methods, class methods
 
+
+Protocols
+
+Scraper Protocol class
+
+class Scraper(Protocol):
+    def scrape(self, search_text: str) -> scrape_result
+
+
+Logging
+
+
+
+

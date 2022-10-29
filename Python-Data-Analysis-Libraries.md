@@ -33,9 +33,13 @@
 |---|---|---|---|---|
 | a  | d  | g  | j  |   |
 | b  | e  | h  | k  |   |
+<<<<<<< HEAD
 | c  | f  | i  | l  |   |
 
 ### Benchmarks
 As always, take these with a grain of sand. They are specific test cases that may not generalize well.
 - https://h2oai.github.io/db-benchmark/
 
+=======
+| c  | f  | i  | l  |   |
+>>>>>>> dd89fbd53ab8819a343e7963788c6b9e9e0d6f7f

@@ -15,3 +15,18 @@ path = os.path.abspath(a_module.__file__)
 path = os.path.dirname(a_module.__file__)
 
 ```
+
+
+### Another way
+
+outside of virtualenv - provides the path of global site-packages,
+insidue a virtualenv - provides the virtualenv's site-packages
+...is this one-liner:
+```python
+
+python -c "from distutils.sysconfig import get_python_lib; print(get_python_lib())"
+
+# Formatted for readability (rather than use as a one-liner), that looks like the following:
+from distutils.sysconfig import get_python_lib
+print(get_python_lib())
+```

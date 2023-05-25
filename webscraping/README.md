@@ -3,6 +3,7 @@
 ### Requests Libraries
 - [httpx](https://github.com/projectdiscovery/httpx) - Requests + Async
 - requests
+- [requests-html](https://github.com/psf/requests-html) - Requests with HTML parser!
 
 ### HTML Parsers, CSS Selectors
 - beautifulsoup (or bs4)
